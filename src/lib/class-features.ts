@@ -35,7 +35,8 @@ function baseFeatures(classId: string, heading: string): ClassFeature[] {
   const pattern = /####\s+(\d+)\. seviye\s+—\s+([^\n]+)\n([\s\S]*?)(?=\n####|$)/g;
   for (const match of section.matchAll(pattern)) {
     const level = Number(match[1]); const name = plain(match[2]); const body = plain(match[3]);
-    features.push({ id: `CLASS-${classId.toUpperCase()}-BASE-${level}`, name, effect: body.slice(0, 1500), level, active: level <= 2 && !(classId === "buyucu" && level === 1), cooldown: cooldown(body) });
+    const isResourceExplanation = classId === "savasci" && level === 1;
+    features.push({ id: `CLASS-${classId.toUpperCase()}-BASE-${level}`, name, effect: body.slice(0, 1500), level, active: level <= 2 && !(classId === "buyucu" && level === 1) && !isResourceExplanation, cooldown: cooldown(body) });
   }
   return features;
 }
