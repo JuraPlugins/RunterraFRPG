@@ -254,7 +254,7 @@ Karakter, uzun mola başına bir kez yakın çevrede belirgin bir Hiçlik bozulm
 
 Soy, bölge ve sınıftan bağımsız seçilir. Boyut etiketi dar geçit, saklanma ve taşıma gibi yalnızca mantıken ilgili durumlarda kullanılır.
 
-Beş soyun ayrıntılı açıklamaları, sınırları, Aspect önerileri ve yeni soy şablonu için [Halklar ve Soylar](icerik/Irklar.md) kataloğuna bak.
+Dokuz soyun ayrıntılı açıklamaları, sınırları, Aspect önerileri ve yeni soy şablonu için [Halklar ve Soylar](icerik/Irklar.md) kataloğuna bak.
 
 | Soy | Boyut | Özellik | Anlatısal etiket |
 |---|---|---|---|

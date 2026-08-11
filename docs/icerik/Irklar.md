@@ -2,7 +2,7 @@
 title: Halklar ve Soylar
 slug: /icerik/irklar
 order: 5
-version: 0.2.0
+version: 0.3.0
 status: complete-draft
 source_world: Runeterra
 ---
@@ -22,6 +22,10 @@ Karakter oluşturmanın tamamı için [Karakter Yaratımı](../03-karakter-yarat
 | Vastaya | Orta | 9 m | Seçilmiş keskin duyu | 1 dar avantaj |
 | Minotaur | Orta | 9 m | Taşıma, itme ve kaldırma | 1 fiziksel uyum |
 | Troll | Orta | 9 m | Soğuk ve bozuk gıda dayanımı | 1 çevresel uyum |
+| Mutant (Zaun özel) | Orta | 9 m | Kimyasal kirlilik ve endüstriyel toksinler | 1 çevresel uyum |
+| Yeti | Orta | 9 m | Kar ve buz üzerinde hareket | 1 hareket uyumu |
+| Ruh | Orta | 9 m | Ruhsal kalıntıları sezme | 1 sınırlı duyu |
+| Havari | Orta | 9 m | Aşkın kaynağın alanını okuma | 1 sınırlı bilgi uyumu |
 
 ## Ortak soy kuralları
 
@@ -242,6 +246,161 @@ Troller tek bir kabile, zihin yapısı veya ahlak anlayışını paylaşmaz. Bir
 
 Troll olmak yenilenme, soğuk hasarı direnci, doğal zırh veya büyük boyut vermez. Bu daha güçlü temalar sınıf, eşya, yüksek seviye özellik ya da GM onaylı özel geçmişle kurulmalıdır.
 
+## Mutant (Zaun özel)
+
+**RACE-MUTANT-001 — Mutant**
+
+- **Boyut:** Orta.
+- **Hız:** 9 m.
+- **Anlatısal etiket:** Kimyasal sızıntı, deney, kalıtsal değişim veya kontrollü biyolojik işlem sonucunda bedeni kalıcı biçimde dönüşmüş Zaunlu.
+- **Özellik — Kimyasal Adaptasyon:** Kimyasal kirlilik, endüstriyel duman ve çevresel toksinlerden kaynaklanan Dayanıklılık kurtarmalarında avantaj kazanırsın.
+
+**RACE-MUTANT-002 — Zaun'a özel:** Mutant paketi varsayılan olarak yalnız Zaun bölgesiyle seçilebilir. GM, karakterin dönüşümünü Zaun laboratuvarı, kaçak kimyager veya benzeri somut bir bağlantıyla açıklaması hâlinde başka bir bölgeye izin verebilir.
+
+Mutasyonun biçimini oyuncu belirler: renk değiştirmiş deri, eklem yapısındaki dönüşüm, ışığa duyarlı gözler, solungaç benzeri izler veya kimyasal destek organları olabilir. Görünüş kendi başına saldırı, zırh veya özel hareket sağlamaz.
+
+### Kimyasal Adaptasyon açıklamaları
+
+- Zaun'un Gri'si, fabrika sızıntıları, laboratuvar gazları ve kirlenmiş su tipik tetikleyicilerdir.
+- Kasten uygulanmış sıradan zehir yalnız GM kaynağı çevresel/endüstriyel sayarsa kapsama girer.
+- Büyülü zehir, Hiçlik yozlaşması, hastalık ve doğrudan asit hasarı otomatik olarak kapsanmaz.
+- Avantaj, hasar direnci veya bağışıklık değildir.
+
+### Karakter fikirleri
+
+| Yaklaşım | Örnek |
+|---|---|
+| Kaçak deney | Kendisini yaratan kimyagerin kayıtlarını yok etmeye çalışan kurtulan |
+| Altşehir rehberi | Başkalarının giremediği kirli katmanlarda yol bulan izci |
+| Sokak doktoru | Kendi dönüşümünü anlamak için benzer vakaları tedavi eden şifacı |
+| Kontrollü dönüşüm | Bedenini isteyerek değiştirmiş fakat bedelini yeni fark eden mucit |
+
+### Aspect önerileri
+
+- “Bedenim Başkasının Deneyi Değil, Benim Hayatım”
+- “Gri Beni Değiştirdi Ama Kıramadı”
+- “Beni Yaratan Formülü Hâlâ Arıyorlar”
+- “Her Yeni Değişim Bir Bedel İster”
+
+### Sınırlar
+
+Mutant ücretsiz doğal silah, zehir direnci, ek uzuv kullanımı, karanlık görüş veya yenilenme kazanmaz. Bu güçler sınıf, yetenek, eşya ya da ilerleme seçimiyle edinilir.
+
+## Yeti
+
+**RACE-YETI-001 — Yeti**
+
+- **Boyut:** Orta. Oynanabilir karakter genç, küçük yapılı veya maceracı ölçeğine uyarlanmış bir yetidir.
+- **Hız:** 9 m.
+- **Anlatısal etiket:** Freljord'un kadim büyüsü, sözlü hafızası ve kışla şekillenmiş topluluklarıyla bağı bulunan tüylü halk.
+- **Özellik — Kar Basışı:** Doğal kar ve buzdan oluşan zorlu arazi hareketine ek maliyet getirmez.
+
+Yetiler yalnız vahşi yaratıklar olarak yorumlanmaz. Unutulmuş anıları taşıyan bir bilge, kabilesinden ayrılmış meraklı bir genç, kadim büyüyü arayan bir rehber veya insanların masallarını yanlış bulduğu için güneye inen bir gezgin olabilir.
+
+### Kar Basışı açıklamaları
+
+- Kar yığını, donmuş göl yüzeyi ve doğal buzlu yamaçları kapsar.
+- Büyüyle üretilmiş tutucu buz, düşman alanı ve başka tür zorlu arazi normal işler.
+- Özellik kaymayı, düşmeyi veya çığ tehlikesini otomatik engellemez.
+- Yüzme, tırmanma veya soğuk hasarı direnci sağlamaz.
+
+### Karakter fikirleri
+
+| Yaklaşım | Örnek |
+|---|---|
+| Hafıza taşıyıcısı | Unutulan bir şarkının parçalarını kabileler arasında arayan anlatıcı |
+| Genç gezgin | İnsanların dünyasını ilk kez gören, merakı korkusundan büyük yolcu |
+| Buz rehberi | Fırtınalarda kaybolanları bulan fakat kendi yuvasının yolunu unutmuş izci |
+| Kadim koruyucu | Uykudan erken uyandırılmış ve yemininin anlamını yeniden öğrenen savaşçı |
+
+### Aspect önerileri
+
+- “Kar Ayak İzlerini Örter, Hatıraları Değil”
+- “İnsanların Hakkımızdaki Masalları Yanlış”
+- “Kadim Bir Şarkının Son Dizesini Arıyorum”
+- “Kış Sabırlı Olmayı Öğretti”
+
+### Sınırlar
+
+Yeti olmak Büyük boyut, soğuk direnci, büyülü kükreme, doğal zırh veya ek hasar vermez. Kadim yeti büyüsü yüksek seviye yetenekler ve hikâye kazanımlarıyla açılır.
+
+## Ruh
+
+**RACE-SPIRIT-001 — Ruh**
+
+- **Boyut:** Orta.
+- **Hız:** 9 m.
+- **Anlatısal etiket:** Bir hatıraya, yere, yemine veya hazırlanmış bedene bağlanarak maddi dünyada kalabilen ruhsal varlık.
+- **Özellik — Ruhsal İz:** Uzun mola başına bir kez ruh, lanet, yoğun duygu kalıntısı veya ruhsal geçit arayan bir kontrolde avantaj kazanırsın.
+
+Oynanabilir Ruh bütünüyle cisimsiz değildir. Görülebilen ve dokunulabilen bağlı bir biçimi vardır; ekipman kullanır, hasar alır ve diğer karakterlerle aynı temel hayatta kalma kurallarına uyar. Biçimi eski bedenine, maskeli bir siluete, canlı bir heykele veya ruh enerjisinden örülmüş bir bedene benzeyebilir.
+
+### Ruhsal İz açıklamaları
+
+- Özellik bir ruhun tam yerini, kimliğini veya niyetini otomatik açıklamaz.
+- Uygun kontroller Büyü Bilgisi, İçgörü, İnanç ve Ruhlar ya da İnceleme olabilir.
+- Kullanım sonuç kesinleşmeden önce ilan edilir.
+- Başarılı kontrol duvar arkasını görme, zihin okuma veya kehanet sağlamaz.
+
+### Karakter fikirleri
+
+| Yaklaşım | Örnek |
+|---|---|
+| Yarım kalmış yemin | Son görevini tamamlamadan huzur bulamayacağını bilen muhafız |
+| Yeni doğmuş ruh | Kendisine ait sandığı anıların başka birine ait olduğunu keşfeden gezgin |
+| Mekâna bağlı | Koruduğu yer yok edildiği için bağını taşıyan son parçayla dolaşan rehber |
+| Ödünç beden | Kendisini kabul eden yapay bedeni korumak için kaynak arayan mucit ruhu |
+
+### Aspect önerileri
+
+- “Beni Bu Dünyada Tutan Yemini Unutamam”
+- “Hatıralarımın Hangisi Bana Ait?”
+- “Yaşayanların Aceleciliğini Anlamakta Zorlanıyorum”
+- “Adımı Hatırlayan Son Kişiyi Korumalıyım”
+
+### Sınırlar
+
+Ruh duvarlardan geçmez; uçmaz, görünmez olmaz ve fiziksel hasara bağışıklık kazanmaz. Yemek, uyku ve nefes gibi ayrıntılar görünüşte farklı anlatılabilir fakat mekanik dinlenme ve çevre kuralları değişmez.
+
+## Havari
+
+**RACE-APOSTLE-001 — Havari**
+
+- **Boyut:** Orta.
+- **Hız:** 9 m.
+- **Anlatısal etiket:** Göksel, ruhsal veya kadim bir irade tarafından işaretlenmiş; onun gücünü henüz bütünüyle taşımayan ölümlü ya da bağlı beden.
+- **Özellik — Aşkın Yankı:** Bağlı olduğun varlığın bir alanını seç: Koruma, Savaş, Değişim, Bilgi, Doğa, Ölüm veya Yıldızlar. Uzun mola başına bir kez bu alanla doğrudan ilgili Büyü Bilgisi ya da İnanç ve Ruhlar kontrolünde avantaj kazanırsın.
+
+**RACE-APOSTLE-002 — Mekanik köken:** Havari biyolojik bir halk olmak zorunda değildir. Bu paket, karakterin temel soy mekaniğinin yerine geçen olağanüstü kökendir; ayrıca İnsan, Yordle veya başka bir soy özelliği alınmaz.
+
+Bir Havari kaynağının sadık hizmetkârı, isteksiz taşıyıcısı, terk edilmiş öğrencisi veya kaynağın gerçek amacından şüphelenen bir asi olabilir. İşaret görünür bir yıldız izi, değişen gözler, rüyalarda konuşan bir ses veya yalnız büyü altında beliren bir mühür şeklinde anlatılabilir.
+
+### Aşkın Yankı açıklamaları
+
+- Alan karakter oluşturulurken seçilir ve GM'nin onayı olmadan değişmez.
+- Avantaj yalnız seçilen alan hakkında bilgi edinme veya işaret yorumlama kontrolüne uygulanır.
+- Kaynak doğrudan cevap vermez, emir iletmez ve geleceği kesin biçimde göstermez.
+- Bu özellik büyü kullanma, sınıf kaynağı veya göksel hasar sağlamaz.
+
+### Karakter fikirleri
+
+| Yaklaşım | Örnek |
+|---|---|
+| İsteksiz seçilmiş | Rüyalarındaki görevi reddettikçe işaretleri güçlenen kaçak |
+| Sessiz elçi | Kaynağının neden artık konuşmadığını araştıran eski mürid |
+| Yanlış yorumlayan | Kehaneti yerine getirmeye çalışırken asıl anlamını sorgulayan savaşçı |
+| Bağı koparmak isteyen | Gücü değil kendi kararlarını geri kazanmak için yolculuk eden taşıyıcı |
+
+### Aspect önerileri
+
+- “Beni Seçmiş Olması Ona İtaat Edeceğim Anlamına Gelmez”
+- “Rüyalarım Başkasının Savaşını Gösteriyor”
+- “İşaretim Umut Kadar Korku da Uyandırıyor”
+- “Kaynağım Sustukça İnancım Değişiyor”
+
+### Sınırlar
+
+Havari başlangıçta göksel biçim, ölümsüzlük, hasar direnci, uçuş, ücretsiz büyü veya doğrudan ilahi bilgi kazanmaz. Bu güçler sınıf, uzmanlık, yetenek ağacı ve hikâye ilerlemesiyle açılır.
 ## Karma miras ve evlat edinilmiş kültür
 
 **RACE-MIXED-001 — Karma miras:** Karakterin birden fazla halktan geliyorsa görünüşünü ve anlatısal bağlarını özgürce birleştir; mekanik olarak yalnızca bir soy paketinin özelliğini, boyutunu ve hızını kullan.
@@ -252,9 +411,9 @@ Troll olmak yenilenme, soğuk hasarı direnci, doğal zırh veya büyük boyut v
 
 ## Olağanüstü kökenler
 
-Yükselmişler, göksel varlıklar, tam ruhlar, yaşayan ölüler, karanlık yaratıklar ve benzeri olağanüstü varlıklar varsayılan 1. seviye soy paketi değildir. Bu kimlikler sıradan maceracı güç bütçesini kolayca aşabilir.
+Yükselmişler, bütünüyle göksel varlıklar, bağsız ve tam cisimsiz ruhlar, güçlü yaşayan ölüler, karanlık yaratıklar ve benzeri olağanüstü varlıklar varsayılan 1. seviye soy paketi değildir. Bu kimlikler sıradan maceracı güç bütçesini kolayca aşabilir.
 
-**RACE-EXOTIC-001 — Sıradan güçte yorum:** GM izin verirse olağanüstü miras, mevcut beş paketten biri yeniden adlandırılarak oynanabilir. Karakter anlatıda sıra dışıdır fakat seçilen paketten başka başlangıç mekaniği kazanmaz.
+**RACE-EXOTIC-001 — Sıradan güçte yorum:** GM izin verirse olağanüstü miras, mevcut dokuz paketten biri yeniden adlandırılarak oynanabilir. Karakter anlatıda sıra dışıdır fakat seçilen paketten başka başlangıç mekaniği kazanmaz.
 
 **RACE-EXOTIC-002 — Uyanan güç:** Olağanüstü yeteneklerin oyun ilerledikçe açılması isteniyorsa bunlar soy paketine yığılmaz; sınıf özellikleri, uzmanlık, eşya veya ilerideki yetenek kataloğundan seçilir.
 
@@ -308,6 +467,10 @@ Yükselmişler, göksel varlıklar, tam ruhlar, yaşayan ölüler, karanlık yar
 | Belirli bir duyuyla çevreyi okumak | Vastaya |
 | Ağır yükleri taşımak ve fiziksel kapasiteyi vurgulamak | Minotaur |
 | Soğuk ve kıtlık temasında dirençli olmak | Troll |
+| Zaun'un kimyasal kirliliğine uyum sağlamış olmak | Mutant |
+| Kar ve buz üzerinde rahat ilerlemek | Yeti |
+| Ruhsal kalıntıları ve bağları okumak | Ruh |
+| Aşkın bir iradenin uyanmamış taşıyıcısını oynamak | Havari |
 
 ## Karakter kâğıdına yazım
 

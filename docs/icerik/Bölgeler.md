@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bölgeler ve Kültürel Kökenler
 slug: /icerik/bolgeler
 order: 6
@@ -239,6 +239,39 @@ Ionia çok sayıda il, gelenek ve okulun oluşturduğu; maddi dünya ile ruhlar 
 - **Aspect önerileri:** “Dış Dünya Ne Kadarını Bilmeli?”, “Elementler Yalan Söylemez”, “Geleneği Korumak Değişmemek Değildir”.
 
 Ixtal kökeni ileri element bilgisi, katı eğitim gelenekleri ve dış dünyaya karşı kontrollü mesafe arasındaki gerilimi taşır. Karakter toplumun merkezinden, sınır yerleşiminden, dış dünyayı inceleyen bir görevden veya resmî anlatıya şüpheyle bakan bir çevreden gelebilir.
+### Ixtal'ın katmanları
+
+| Köken | Sana ne öğretildi? | Muhtemel çatışma |
+|---|---|---|
+| Ixaocan merkezi | Aksiyomların düzeni, sözlü aktarım ve kontrollü element eğitimi | Ayrıcalıklı bilginin kimden saklandığını sorgulamak |
+| Yun Tal çevresi | Yönetim, törensel sorumluluk ve sırların korunması | Sadakat ile hakikat arasında kalmak |
+| Sınır yerleşimi | Uzmanlaşmış tek element geleneği ve pratik hayatta kalma | Merkezin kararlarının bedelini taşımak |
+| Yağmur ormanı topluluğu | Canlı çevre, av düzeni ve yabancılardan sakınma | Ixtal devletiyle aynı kimliği paylaşmamak |
+| Dış dünya görevi | Yabancı diller, gözlem ve örtülü diplomasi | Öğrendiğin gerçekleri eve taşıyıp taşımamak |
+
+### Element aksiyomları
+
+Ixtallı karakter element büyüsüne otomatik erişmez. Aksiyom geleneği, karakterin dünyayı maddi güçlerin düzeni olarak okumasını anlatır. Mekanik büyüler sınıf, yetenek veya eşya seçiminden gelir.
+
+| Gelenek | Savaş dışı kullanım örneği | Sağlamadığı şey |
+|---|---|---|
+| Toprak ve kristal | Kaya yapısını, titreşimi veya güvenli geçidi incelemek | Duvar yaratmak veya taş zırh |
+| Su ve akış | Akıntı, yağış veya yeraltı suyunun yönünü okumak | Su altında nefes veya ücretsiz iyileştirme |
+| Hava ve ses | Rüzgâr düzenini, yankıyı veya yaklaşan fırtınayı yorumlamak | Uçuş veya sessizlik alanı |
+| Isı ve ışık | Yangın izini, sıcaklık değişimini veya ışık kırılmasını çözmek | Ateş hasarı veya görünmezlik |
+| Canlı çevre | Bitki düzeni, hayvan davranışı veya ekolojik bozulmayı fark etmek | Bitki kontrolü veya hayvan komutası |
+
+### Ixtal çatışmaları
+
+- Korunan bilginin güvenlik mi, iktidar mı sağladığı.
+- Ixaocan merkezi ile sınır topluluklarının farklı gerçeklikleri.
+- Dış dünyanın tehdit olduğu öğretisiyle görülen gerçekler arasındaki fark.
+- Kadim mirasa saygı ile yeni yöntemlere ihtiyaç arasındaki gerilim.
+- Element düzenini korumak adına bireysel yaşamların gözden çıkarılması.
+
+**REGION-IXTAL-002 — Bilgi güç değildir:** Ixtal kökeni karaktere ücretsiz büyü, element hasarı, büyü direnci veya ek büyü listesi vermez. Element eğitimi, Element Okuması ve seçilen beceriyle savaş dışı bilgi sağlar.
+
+**REGION-IXTAL-003 — Tek Ixtal yoktur:** Ixaocan'da yetişmiş seçkin, sınır köyü sakini ve bağımsız orman topluluğundan gelen karakter aynı görüşleri paylaşmak zorunda değildir. Bölge Aspect'i bu ayrılığı gösterebilir.
 
 ### Element Okumasının sınırları
 

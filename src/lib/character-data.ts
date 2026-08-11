@@ -52,6 +52,37 @@ export const ancestries = [
     speed: 9,
     trait: "Sert İklim",
     description: "Doğal soğuk ve bozulmuş yiyecek kaynaklı kurtarmalarda avantaj kazan.",
+  },  {
+    id: "mutant",
+    name: "Mutant",
+    size: "Orta",
+    speed: 9,
+    trait: "Kimyasal Adaptasyon",
+    description: "Zaun'a özgü soy. Kimyasal kirlilik, duman ve endüstriyel toksin kaynaklı Dayanıklılık kurtarmalarında avantaj kazan.",
+  },
+  {
+    id: "yeti",
+    name: "Yeti",
+    size: "Orta",
+    speed: 9,
+    trait: "Kar Basışı",
+    description: "Doğal kar ve buzdan oluşan zorlu arazi hareketine ek maliyet getirmez.",
+  },
+  {
+    id: "ruh",
+    name: "Ruh",
+    size: "Orta",
+    speed: 9,
+    trait: "Ruhsal İz",
+    description: "Uzun mola başına bir kez ruh, lanet veya duygusal kalıntı arayan bir kontrolde avantaj kazan.",
+  },
+  {
+    id: "havari",
+    name: "Havari",
+    size: "Orta",
+    speed: 9,
+    trait: "Aşkın Yankı",
+    description: "Uzun mola başına bir kez bağlı olduğun aşkın varlığın alanıyla ilgili Büyü Bilgisi veya İnanç ve Ruhlar kontrolünde avantaj kazan.",
   },
 ] as const;
 
