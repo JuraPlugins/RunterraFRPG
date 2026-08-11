@@ -323,6 +323,41 @@ export const classes = [
     defense: "light",
     equipment: "Hafif zırh; arbalet veya tabanca; hançer; zanaat takımı; mucit paketi",
     accent: "#4eabb1",
+  },{
+    id: "dovus-ustasi", name: "Dövüş Ustası", role: "Kombolar, hareket ve çıplak dövüş", hitDie: 8, hpBase: 8, hpPerLevel: 5,
+    saves: ["Çeviklik", "Sezgi"], skills: ["Akrobasi", "Atletizm", "Algı", "İçgörü", "Gizlilik", "İnanç ve Ruhlar"], skillCount: 3,
+    primary: "Çeviklik veya Sezgi", resource: "Ritim", resourceBase: "prof+1", specializations: ["Ruh Yumruğu", "Savaş Dansçısı"],
+    armor: "Zırh yok", defense: "unarmored-wis", equipment: "Dövüş asası veya iki hafif silah; sargılar; gezgin paketi", accent: "#d58a55",
+  },
+  {
+    id: "yeminli", name: "Yeminli", role: "Ön hat, aura ve yemin gücü", hitDie: 10, hpBase: 10, hpPerLevel: 6,
+    saves: ["Dayanıklılık", "Karizma"], skills: ["Atletizm", "Gözdağı", "İçgörü", "İkna", "İnanç ve Ruhlar", "Tıp"], skillCount: 2,
+    primary: "Güç veya Karizma", resource: "Azim", resourceBase: "prof", specializations: ["Güneş Muhafızı", "İntikam Yemini"],
+    armor: "Orta zırh ve kalkan", defense: "medium-shield", equipment: "Orta zırh; kalkan; uzun kılıç veya savaş çekici; kutsal/yemin odağı; gezgin paketi", accent: "#e0b84f",
+  },
+  {
+    id: "ozan", name: "Ozan", role: "İlham, sosyal etki ve alan desteği", hitDie: 8, hpBase: 8, hpPerLevel: 5,
+    saves: ["Çeviklik", "Karizma"], skills: ["Aldatma", "El Çabukluğu", "İçgörü", "İkna", "Performans", "Tarih", "Büyü Bilgisi"], skillCount: 4,
+    primary: "Karizma", resource: "İlham", resourceBase: "prof+1", specializations: ["Savaş Ezgicisi", "Ruh Sanatçısı"],
+    armor: "Hafif zırh", defense: "light", equipment: "Hafif zırh; rapier veya kısa yay; müzik aleti; gösteri paketi", accent: "#d36ba7",
+  },
+  {
+    id: "antlasmali", name: "Antlaşmalı", role: "Pakt güçleri, lanet ve bedelli büyü", hitDie: 8, hpBase: 8, hpPerLevel: 5,
+    saves: ["Sezgi", "Karizma"], skills: ["Aldatma", "Büyü Bilgisi", "Gözdağı", "İçgörü", "İnanç ve Ruhlar", "Tarih"], skillCount: 2,
+    primary: "Karizma", resource: "Mühür", resourceBase: "prof", specializations: ["Karanlık Aracı", "Zincir Kıran"],
+    armor: "Hafif zırh", defense: "light", equipment: "Hafif zırh; hançer veya asa; pakt odağı; bilgin paketi", accent: "#7956b5",
+  },
+  {
+    id: "sekil-degistirici", name: "Şekil Değiştirici", role: "Dönüşüm, dayanıklılık ve yırtıcı hücum", hitDie: 10, hpBase: 10, hpPerLevel: 6,
+    saves: ["Dayanıklılık", "Sezgi"], skills: ["Akrobasi", "Algı", "Atletizm", "Doğa", "Gizlilik", "Hayatta Kalma", "Hayvan İdaresi"], skillCount: 3,
+    primary: "Sezgi", resource: "Vahşet", resourceBase: "prof", specializations: ["Yabanbiçim", "Kadim Kan"],
+    armor: "Hafif zırh", defense: "light", equipment: "Hafif zırh; mızrak veya iki pençe bıçağı; avcı paketi", accent: "#6e9d55",
+  },
+  {
+    id: "cagirici", name: "Çağırıcı", role: "Yoldaş, ruh ve savaş alanı komutası", hitDie: 8, hpBase: 8, hpPerLevel: 5,
+    saves: ["Zekâ", "Sezgi"], skills: ["Büyü Bilgisi", "Doğa", "Hayvan İdaresi", "İnanç ve Ruhlar", "İnceleme", "Tarih"], skillCount: 3,
+    primary: "Zekâ veya Sezgi", resource: "Komuta", resourceBase: "prof+2", specializations: ["Sürü Efendisi", "Ruh Kapısı"],
+    armor: "Hafif zırh", defense: "light", equipment: "Hafif zırh; asa veya kısa yay; çağırma odağı; bilgin paketi", accent: "#55a9a0",
   },
 ] as const;
 
@@ -339,7 +374,7 @@ export const mageSlots = [
   [4, 3, 3, 3, 3, 2, 1, 1, 1], [4, 3, 3, 3, 3, 2, 2, 1, 1],
 ] as const;
 
-export const packs = ["Gezgin", "Hırsız", "Kâşif/Avcı", "Bilgin", "Şifacı", "Mucit"];
+export const packs = ["Gezgin", "Hırsız", "Kâşif/Avcı", "Bilgin", "Şifacı", "Mucit", "Gösteri", "Mistik", "Diplomat", "Çağırıcı"];
 
 export function modifier(score: number) {
   return Math.floor((score - 10) / 2);
@@ -347,4 +382,22 @@ export function modifier(score: number) {
 
 export function proficiency(level: number) {
   return 2 + Math.floor((level - 1) / 4);
+}
+
+export function classPowerModifier(classId: string, abilities: Record<AbilityKey, number>) {
+  const mods = Object.fromEntries(abilityKeys.map((key) => [key, modifier(abilities[key])])) as Record<AbilityKey, number>;
+  if (["buyucu", "mucit"].includes(classId)) return mods.zeka;
+  if (classId === "cagirici") return Math.max(mods.zeka, mods.sezgi);
+  if (["ruhban", "avci", "sekil-degistirici"].includes(classId)) return mods.sezgi;
+  if (classId === "duzenbaz") return mods.ceviklik;
+  if (classId === "dovus-ustasi") return Math.max(mods.ceviklik, mods.sezgi);
+  if (classId === "yeminli") return Math.max(mods.guc, mods.karizma);
+  if (["ozan", "antlasmali"].includes(classId)) return mods.karizma;
+  return Math.max(mods.guc, mods.ceviklik);
+}
+
+export function classResourceCapacity(classId: string, resourceBase: string, level: number) {
+  if (resourceBase === "slots") return 0;
+  const offset = resourceBase === "prof+2" ? 2 : resourceBase === "prof+1" ? 1 : 0;
+  return proficiency(level) + offset + (classId === "ruhban" && level >= 9 ? 1 : 0);
 }

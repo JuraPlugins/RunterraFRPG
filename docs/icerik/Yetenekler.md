@@ -67,6 +67,12 @@ Sınıf kaynakları için [Sınıflar ve Uzmanlıklar](Sınıflar.md), çatışm
 | Büyücü | Kademeye uygun bir büyü yuvası | Bir yuva ve uzun mola sınırı; iki yuva harcanmaz |
 | Ruhban | 1 Lütuf | 2 Lütuf |
 | Mucit | 1 Yük | 2 Yük |
+| Dövüş Ustası | 1 Ritim | 2 Ritim |
+| Yeminli | 1 Azim | 2 Azim |
+| Ozan | 1 İlham | 2 İlham |
+| Antlaşmalı | 1 Mühür | 2 Mühür |
+| Şekil Değiştirici | 1 Vahşet | 2 Vahşet |
+| Çağırıcı | 1 Komuta | 2 Komuta |
 
 **ABILITY-COST-001 — Büyücü yuvası:** Büyücü Kademe I için en az 1., Kademe II için en az 2., Kademe III için en az 3. ve Kademe IV için en az 4. derece yuva harcar. Daha yüksek yuva kullanmak kartta yazmıyorsa etkiyi büyütmez.
 
@@ -76,13 +82,13 @@ Sınıf kaynakları için [Sınıflar ve Uzmanlıklar](Sınıflar.md), çatışm
 
 ## Yetenek yeteneği, saldırısı ve DC'si
 
-**ABILITY-STAT-001 — İmza yeteneği:** Savaşçı GÜÇ veya ÇEV, Düzenbaz ÇEV, Avcı SEZ, Büyücü ZEK, Ruhban SEZ ve Mucit ZEK kullanır. Savaşçı yeteneği öğrenirken GÜÇ veya ÇEV seçer.
+**ABILITY-STAT-001 — İmza yeteneği:** Savaşçı GÜÇ veya ÇEV; Düzenbaz ÇEV; Avcı SEZ; Büyücü ZEK; Ruhban SEZ; Mucit ZEK; Dövüş Ustası ÇEV veya SEZ; Yeminli GÜÇ veya KAR; Ozan KAR; Antlaşmalı KAR; Şekil Değiştirici SEZ; Çağırıcı ZEK veya SEZ kullanır. İki seçenekli sınıf yeteneği öğrenirken yüksek olan modifikatörü kullanır.
 
 **ABILITY-STAT-002 — Saldırı:** İmza yeteneği saldırısı `d20 + uzmanlık bonusu + İmza yeteneği modifikatörü`dür.
 
 **ABILITY-STAT-003 — Kurtarma DC'si:** İmza yeteneği DC'si `8 + uzmanlık bonusu + İmza yeteneği modifikatörü`dür.
 
-**ABILITY-STAT-004 — Uyumlu sınıflar:** Kartlardaki uyumlu sınıf listesi zorunlu önkoşul değil, tema rehberidir. Karakter yeteneğin eğitimini veya dönüşümünü anlatabiliyorsa GM başka sınıfa izin verebilir; mekanik bedel değişmez.
+**ABILITY-STAT-004 — Uyumlu sınıflar:** Kartlardaki uyumlu sınıf listesi normal Yetenek Ağacının filtresidir. GM, karakter yeteneğin eğitimini veya dönüşümünü anlatabiliyorsa Tüm Yetenekler menüsünden başka sınıfa izin verebilir; mekanik bedel değişmez.
 
 ## Kullanım ve yığılma sınırları
 

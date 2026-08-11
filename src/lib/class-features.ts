@@ -10,6 +10,12 @@ const classConfig: Record<string, { heading: string; prefix: string; file: strin
   buyucu: { heading: "Büyücü", prefix: "MAGE", file: "Buyucu-4-20.md", specializations: { Elementalist: "ELEMENT", "Rün Dokuyucu": "RUNE" } },
   ruhban: { heading: "Ruhban", prefix: "CLERIC", file: "Ruhban-4-20.md", specializations: { Koruyucu: "GUARDIAN", "Ruh Rehberi": "SPIRIT" } },
   mucit: { heading: "Mucit", prefix: "INVENTOR", file: "Mucit-4-20.md", specializations: { "Hextech Ustası": "HEXTECH", Kimyager: "CHEMIST" } },
+  "dovus-ustasi": { heading: "Dövüş Ustası", prefix: "MARTIAL", file: "Dovus-Ustasi-4-20.md", specializations: { "Ruh Yumruğu": "SPIRIT", "Savaş Dansçısı": "DANCE" } },
+  yeminli: { heading: "Yeminli", prefix: "OATHBOUND", file: "Yeminli-4-20.md", specializations: { "Güneş Muhafızı": "SUN", "İntikam Yemini": "VENGEANCE" } },
+  ozan: { heading: "Ozan", prefix: "BARD", file: "Ozan-4-20.md", specializations: { "Savaş Ezgicisi": "BATTLE", "Ruh Sanatçısı": "SPIRIT" } },
+  antlasmali: { heading: "Antlaşmalı", prefix: "PACT", file: "Antlasmali-4-20.md", specializations: { "Karanlık Aracı": "DARK", "Zincir Kıran": "BREAKER" } },
+  "sekil-degistirici": { heading: "Şekil Değiştirici", prefix: "SHIFTER", file: "Sekil-Degistirici-4-20.md", specializations: { Yabanbiçim: "WILD", "Kadim Kan": "ANCIENT" } },
+  cagirici: { heading: "Çağırıcı", prefix: "SUMMONER", file: "Cagirici-4-20.md", specializations: { "Sürü Efendisi": "SWARM", "Ruh Kapısı": "GATE" } },
 };
 
 function plain(value: string) { return value.replace(/[`*_#|]/g, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").replace(/\s+/g, " ").trim(); }
@@ -24,6 +30,12 @@ const activeFeatureIds = new Set([
   "CLASS-MAGE-007", "CLASS-MAGE-015", "CLASS-MAGE-020", "CLASS-MAGE-ELEMENT-018", "CLASS-MAGE-RUNE-010", "CLASS-MAGE-RUNE-014",
   "CLASS-CLERIC-007", "CLASS-CLERIC-013", "CLASS-CLERIC-015", "CLASS-CLERIC-020", "CLASS-CLERIC-GUARDIAN-010", "CLASS-CLERIC-GUARDIAN-018", "CLASS-CLERIC-SPIRIT-006", "CLASS-CLERIC-SPIRIT-010", "CLASS-CLERIC-SPIRIT-014",
   "CLASS-INVENTOR-007", "CLASS-INVENTOR-015", "CLASS-INVENTOR-HEXTECH-010", "CLASS-INVENTOR-HEXTECH-018", "CLASS-INVENTOR-CHEMIST-010", "CLASS-INVENTOR-CHEMIST-018",
+  "CLASS-MARTIAL-007", "CLASS-MARTIAL-015", "CLASS-MARTIAL-SPIRIT-010", "CLASS-MARTIAL-SPIRIT-014", "CLASS-MARTIAL-DANCE-010", "CLASS-MARTIAL-DANCE-018",
+  "CLASS-OATHBOUND-015", "CLASS-OATHBOUND-020", "CLASS-OATHBOUND-SUN-006", "CLASS-OATHBOUND-SUN-010", "CLASS-OATHBOUND-VENGEANCE-006",
+  "CLASS-BARD-007", "CLASS-BARD-020", "CLASS-BARD-BATTLE-010", "CLASS-BARD-SPIRIT-010", "CLASS-BARD-SPIRIT-014",
+  "CLASS-PACT-015", "CLASS-PACT-DARK-010", "CLASS-PACT-DARK-014", "CLASS-PACT-BREAKER-010",
+  "CLASS-SHIFTER-015", "CLASS-SHIFTER-WILD-010", "CLASS-SHIFTER-ANCIENT-006", "CLASS-SHIFTER-ANCIENT-018",
+  "CLASS-SUMMONER-007", "CLASS-SUMMONER-011", "CLASS-SUMMONER-015", "CLASS-SUMMONER-SWARM-010", "CLASS-SUMMONER-GATE-010", "CLASS-SUMMONER-GATE-018",
 ]);
 
 function baseFeatures(classId: string, heading: string): ClassFeature[] {
@@ -36,7 +48,8 @@ function baseFeatures(classId: string, heading: string): ClassFeature[] {
   for (const match of section.matchAll(pattern)) {
     const level = Number(match[1]); const name = plain(match[2]); const body = plain(match[3]);
     const isResourceExplanation = classId === "savasci" && level === 1;
-    features.push({ id: `CLASS-${classId.toUpperCase()}-BASE-${level}`, name, effect: body.slice(0, 1500), level, active: level <= 2 && !(classId === "buyucu" && level === 1) && !isResourceExplanation, cooldown: cooldown(body) });
+    const usesIndividualActionCards = ["dovus-ustasi", "yeminli", "ozan", "antlasmali", "sekil-degistirici", "cagirici"].includes(classId);
+    features.push({ id: `CLASS-${classId.toUpperCase()}-BASE-${level}`, name, effect: body.slice(0, 1500), level, active: level <= 2 && !usesIndividualActionCards && !(classId === "buyucu" && level === 1) && !isResourceExplanation, cooldown: cooldown(body) });
   }
   return features;
 }

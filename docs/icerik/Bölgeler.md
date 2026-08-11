@@ -556,7 +556,7 @@ Hiçlik normal bir memleket veya on üçüncü bölge paketi değildir. Var olan
 
 **REGION-HOMEBREW-003 — Yasak bonuslar:** Bölge paketi yetenek puanı, saldırı, hasar, SS, CP, hareket, güç DC'si, direnç, Rün Puanı veya sınıf kaynağı vermez.
 
-**REGION-HOMEBREW-004 — Altı sınıf testi:** Paket; Savaşçı, Düzenbaz, Avcı, Büyücü, Ruhban ve Mucit için ayrı ayrı makul bir karakter fikri üretebilmelidir. Fikirlerden biri doğrudan savaş bonusuna ihtiyaç duyuyorsa bölge tasarımı yeniden ele alınır.
+**REGION-HOMEBREW-004 — On iki sınıf testi:** Paket; Savaşçı, Düzenbaz, Avcı, Büyücü, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici ve Çağırıcı için ayrı ayrı makul bir karakter fikri üretebilmelidir. Fikirlerden biri doğrudan savaş bonusuna ihtiyaç duyuyorsa bölge tasarımı yeniden ele alınır.
 
 ### Bölge tasarım şablonu
 

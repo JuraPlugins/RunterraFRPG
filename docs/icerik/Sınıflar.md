@@ -2,14 +2,14 @@
 title: Sınıflar ve Uzmanlıklar
 slug: /icerik/siniflar
 order: 7
-version: 0.5.0
+version: 0.6.0
 status: complete-draft
 rules_scope: levels 1-20 playable
 ---
 
 # Sınıflar ve Uzmanlıklar
 
-Bu katalog, Runeterra FRP'nin altı oynanabilir sınıfını ve on iki uzmanlığını içerir. Sınıf karakterin kişiliğini, mesleğini, bölgesini veya inancını değil; tehlike karşısında kullandığı ana mekanik araçları belirler.
+Bu katalog, Runeterra FRP'nin on iki oynanabilir sınıfını ve yirmi dört uzmanlığını içerir. Sınıf karakterin kişiliğini, mesleğini, bölgesini veya inancını değil; tehlike karşısında kullandığı ana mekanik araçları belirler.
 
 Karakter oluşturma sırası için [Karakter Yaratımı](../03-karakter-yaratimi.md), aksiyonlar ve çatışma için [Temel Kurallar](../01-temel-kurallar.md), bölgesel karakter fikirleri için [Bölgeler ve Kültürel Kökenler](Bölgeler.md), ekipman seçenekleri için [İtemler ve Ekipman Kataloğu](Itemler.md), ortak büyü ve kaynak etkileşimleri için [Büyü ve Güç Kaynakları](Büyü-ve-Güç-Kaynakları.md) kullanılır.
 
@@ -23,6 +23,12 @@ Karakter oluşturma sırası için [Karakter Yaratımı](../03-karakter-yaratimi
 | Büyücü | d6 | Alan, kontrol, büyü çeşitliliği | ZEK | Büyü yuvaları | Elementalist, Rün Dokuyucu |
 | Ruhban | d8 | Koruma, iyileştirme, ruhlar | SEZ | Lütuf | Koruyucu, Ruh Rehberi |
 | Mucit | d8 | Cihaz, konum, uyarlanabilir destek | ZEK | Yük | Hextech Ustası, Kimyager |
+| Dövüş Ustası | d8 | Kombo, hareket, çıplak dövüş | ÇEV veya SEZ | Ritim | Ruh Yumruğu, Savaş Dansçısı |
+| Yeminli | d10 | Ön hat, aura, yemin | GÜÇ veya KAR | Azim | Güneş Muhafızı, İntikam Yemini |
+| Ozan | d8 | İlham, sosyal etki, alan desteği | KAR | İlham | Savaş Ezgicisi, Ruh Sanatçısı |
+| Antlaşmalı | d8 | Pakt, lanet, bedelli güç | KAR | Mühür | Karanlık Aracı, Zincir Kıran |
+| Şekil Değiştirici | d10 | Dönüşüm, dayanıklılık, hücum | SEZ | Vahşet | Yabanbiçim, Kadim Kan |
+| Çağırıcı | d8 | Yoldaş, tezahür, komuta | ZEK veya SEZ | Komuta | Sürü Efendisi, Ruh Kapısı |
 
 ## 4–20. seviye sınıf kitapçıkları
 
@@ -32,8 +38,14 @@ Karakter oluşturma sırası için [Karakter Yaratımı](../03-karakter-yaratimi
 - [Büyücü — 4–20](siniflar/Buyucu-4-20.md)
 - [Ruhban — 4–20](siniflar/Ruhban-4-20.md)
 - [Mucit — 4–20](siniflar/Mucit-4-20.md)
+- [Dövüş Ustası — 4–20](siniflar/Dovus-Ustasi-4-20.md)
+- [Yeminli — 4–20](siniflar/Yeminli-4-20.md)
+- [Ozan — 4–20](siniflar/Ozan-4-20.md)
+- [Antlaşmalı — 4–20](siniflar/Antlasmali-4-20.md)
+- [Şekil Değiştirici — 4–20](siniflar/Sekil-Degistirici-4-20.md)
+- [Çağırıcı — 4–20](siniflar/Cagirici-4-20.md)
 
-Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu altı kitapçık 4–20 özelliklerini, uzmanlık gelişimlerini ve gerekli yüksek seviye güç listelerini tamamlar.
+Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu on iki kitapçık 4–20 özelliklerini, uzmanlık gelişimlerini ve gerekli yüksek seviye güç listelerini tamamlar.
 
 ## Ortak sınıf kuralları
 
@@ -47,7 +59,7 @@ Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu altı kitapçı
 
 **CLASS-CORE-005 — Güç saldırısı ve DC:** Bir sınıf özelliği aksi söylemedikçe güç saldırısı `d20 + uzmanlık bonusu + güç yeteneği`, kurtarma DC'si `8 + uzmanlık bonusu + güç yeteneği`dir.
 
-**CLASS-CORE-006 — Kaynak ayrılığı:** Efor, Momentum, Odak, büyü yuvası, Lütuf ve Yük birbirine veya Rün Puanına dönüştürülemez. Bir özellik açıkça söylemedikçe bir sınıf kaynağı diğer sınıfın etkisini ödeyemez.
+**CLASS-CORE-006 — Kaynak ayrılığı:** Efor, Momentum, Odak, büyü yuvası, Lütuf, Yük, Ritim, Azim, İlham, Mühür, Vahşet ve Komuta birbirine veya Rün Puanına dönüştürülemez. Bir özellik açıkça söylemedikçe bir sınıf kaynağı diğer sınıfın etkisini ödeyemez.
 
 **CLASS-CORE-007 — Aynı tetikleyici:** Bir saldırı, isabet, hasar alma veya kurtarma gibi tek tetikleyiciye aynı sınıftan yalnızca bir harcamalı teknik uygulanabilir. Eşya ve Rün Puanı kendi yığılma sınırlarını ayrıca kullanır.
 
@@ -67,6 +79,12 @@ Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu altı kitapçı
 | Büyü yuvası | Seviye tablosu | Uzun molada tamamı; Büyü Yenileme ile sınırlı kısa mola dönüşü | Dereceli büyüler |
 | Lütuf | Uzmanlık bonusu | Uzun molada tamamı; 2. seviyeden sonra kısa molada 1 | Dua ve koruma |
 | Yük | Uzmanlık bonusu + 2 | Uzun molada tamamı; Hızlı Kurulum ile sınırlı şans | Cihazlar |
+| Ritim | Uzmanlık bonusu + 1 | Kısa veya uzun molada tamamı | Kombo ve hareket teknikleri |
+| Azim | Uzmanlık bonusu | Uzun molada tamamı; kısa molada 1 | Yemin Darbesi ve koruma |
+| İlham | Uzmanlık bonusu + 1 | Uzun molada tamamı; kısa molada 1 | Ezgiler ve destek |
+| Mühür | Uzmanlık bonusu | Kısa veya uzun molada tamamı | Pakt teknikleri |
+| Vahşet | Uzmanlık bonusu | Uzun molada tamamı; kısa molada 1 | Dönüşüm teknikleri |
+| Komuta | Uzmanlık bonusu + 2 | Uzun molada tamamı; kısa molada 1 | Yoldaş emirleri ve tezahürler |
 
 **CLASS-RESOURCE-001 — Çatışma başlangıcı:** Yalnızca Momentum çatışma başlangıcında özel olarak 1'e ayarlanır. Diğer kaynaklar mevcut değerlerini korur; inisiyatif atmak onları yenilemez.
 
@@ -84,6 +102,12 @@ Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu altı kitapçı
 | Büyü listesinden farklı sorunlara farklı cevaplar seçmek | Büyücü |
 | Takımı ayakta tutmak, hasarı önlemek ve ruhlarla ilgilenmek | Ruhban |
 | Sınırlı Yükü cihazlar, prototipler ve karışımlar arasında yönetmek | Mucit |
+| Yumruk, kombo ve sürekli hareketle savaşmak | Dövüş Ustası |
+| Bir yemini ön hatta aura ve darbelerle temsil etmek | Yeminli |
+| İlham dağıtmak, sosyal sahneleri ve savaş ritmini yönetmek | Ozan |
+| Güçlü bir varlıkla yapılan anlaşmanın bedelini kullanmak | Antlaşmalı |
+| Farklı savaş biçimlerine dönüşerek uyum sağlamak | Şekil Değiştirici |
+| Tek bir güçlü yoldaşı büyütmek ve savaş alanında komuta etmek | Çağırıcı |
 
 ## Oynanabilir kurallar ve ilerleme
 
@@ -116,6 +140,30 @@ Bu sürümde 1–20. seviyelerin tam sınıf kuralları vardır. Aşağıdaki ta
 | 19 | Yetenek artışı | — | — | — | — | — | — |
 | 20 | Zirve | Savaşın Efendisi | Kusursuz Fırsat | İlk Avcı | Başbüyücü | İnancın Sesi | Büyük Mucit |
 
+### Yeni sınıfların 1–20 ilerleme omurgası
+
+| Sv. | Dövüş Ustası | Yeminli | Ozan | Antlaşmalı | Şekil Değiştirici | Çağırıcı |
+|---:|---|---|---|---|---|---|
+| 1 | Ritim, Kombolar | Azim, Yemin Darbesi | İlham, Ezgiler | Mühür, Pakt Gücü | Vahşet, Dönüşüm | Komuta, Yoldaş |
+| 2 | Akış Adımı | Koruyucu Aura | Doğaçlama | Bedelli Güç | Yırtıcı Hamle | Bağlı Emir |
+| 3 | Ruh Yumruğu/Savaş Dansçısı | Güneş Muhafızı/İntikam Yemini | Savaş Ezgicisi/Ruh Sanatçısı | Karanlık Aracı/Zincir Kıran | Yabanbiçim/Kadim Kan | Sürü Efendisi/Ruh Kapısı |
+| 4 | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı |
+| 5 | Ek Saldırı | Ek Saldırı | Güçlü İlham | Gelişmiş Pakt | Ek Saldırı | Gelişmiş Yoldaş |
+| 6 | Uzmanlık II | Uzmanlık II | Uzmanlık II | Uzmanlık II | Uzmanlık II | Uzmanlık II |
+| 7 | Dingin Zihin | Sarsılmaz Yemin | Karşı Ezgi | Karanlık Direnç | Uyumlu Beden | Paylaşılan Duyu |
+| 8 | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı |
+| 9 | Ritim Ustalığı | Güçlü Aura | İlham Artışı | Mühür Ustalığı | Gelişmiş Biçim | Komuta Artışı |
+| 10 | Uzmanlık III | Uzmanlık III | Uzmanlık III | Uzmanlık III | Uzmanlık III | Uzmanlık III |
+| 11 | Üçlü Kombo | Arındırıcı Darbe | Büyük Sahne | Derin Antlaşma | Çifte Doğa | İkinci Tezahür |
+| 12 | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı |
+| 13 | Beden Kalesi | Yemin Zırhı | Unutulmaz Nakarat | Bedeli Reddet | Ölümsüz İçgüdü | Bağ Kalkanı |
+| 14 | Uzmanlık IV | Uzmanlık IV | Uzmanlık IV | Uzmanlık IV | Uzmanlık IV | Uzmanlık IV |
+| 15 | Boşluk Adımı | Son Siper | Kesintisiz Ritim | Pakt Kapısı | Tepe Yırtıcı | Toplu Emir |
+| 16 | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı |
+| 17 | Kusursuz Akış | Efsanevi Yemin | Efsanevi Ezgi | Efsanevi Antlaşma | Efsanevi Biçim | Efsanevi Yoldaş |
+| 18 | Uzmanlık V | Uzmanlık V | Uzmanlık V | Uzmanlık V | Uzmanlık V | Uzmanlık V |
+| 19 | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı |
+| 20 | Tek Nefes | Yaşayan Yemin | Dünyanın Şarkısı | Efendisiz Güç | İlk Biçim | Lejyonun Sesi |
 ### Savaşçı
 
 **CLASS-001**
@@ -382,6 +430,201 @@ Turunda bir cihazı ilk kez Ana Aksiyonla kullandıktan sonra Hızlı Aksiyonla 
 **Hextech Ustası:** Uzun mola sonunda iki silah veya zırha prototip rün yerleştir. Taşıyıcısı birine saldırı ve hasarda `+1`, diğerine SS'de `+1` kazanır; aynı yaratık ikisinden birden faydalanamaz. Rünler sonraki uzun molanda söner.
 
 **Kimyager:** Uzun mola sonunda üç karışım hazırla; her biri Hızlı Aksiyonla içilir veya Ana Aksiyonla bitişik hedefe verilir. Seçenekler: `1d6 + ZEK` CP iyileştirme, 10 dakika 3 m hız artışı veya 1 dakika zehir hasarına direnç. Aynı tür karışım aynı hedefte üst üste binmez.
+
+### Dövüş Ustası
+
+**CLASS-007**
+
+- **Can Zarı:** d8; 1. seviyede `8 + DAY`, sonra `5 + DAY` CP.
+- **Kurtarmalar:** ÇEV, SEZ.
+- **Zırhlar:** Yok. Zırhsızken SS `10 + ÇEV + SEZ`.
+- **Silahlar:** Basit ve hafif silahlar; silahsız saldırın `1d6` vurma hasarı verir.
+- **Beceriler:** Akrobasi, Atletizm, Algı, İçgörü, Gizlilik veya İnanç ve Ruhlar arasından üç.
+- **Güç yeteneği:** ÇEV veya SEZ; karakter oluştururken yüksek olan kullanılır.
+- **Başlangıç:** Dövüş asası veya iki hafif silah; sargılar; gezgin paketi.
+
+#### 1. seviye — Ritim ve Kombolar
+
+Ritim havuzun `uzmanlık bonusu + 1`dir ve kısa veya uzun molada yenilenir. Tur başına yalnızca bir Kombo tekniği kullanabilirsin.
+
+| Kombo | Bedel ve etki |
+|---|---|
+| Seri Darbe | Hızlı, 1 Ritim; bir silahsız saldırı yap |
+| Savuştur | Tepki, 1 Ritim; aldığın yakın veya menzilli silah hasarını `1d6 + SEZ` azalt |
+| Rüzgâr Adımı | Hızlı, 1 Ritim; 6 m güvenli hareket et ve zorlu araziyi yok say |
+| Sarsan Avuç | İsabetten sonra 1 Ritim; d6 ek ruh hasarı ve hedef DAY kurtaramazsa Tepkisini kaybeder |
+
+#### 2. seviye — Akış Adımı
+
+Turunda Hızlı Aksiyonla Atıl veya Geri Çekil kullanabilirsin. Bunu Ritim harcamadan kullanırsan o tur Seri Darbe kullanamazsın. Yüksekten düşerken Tepkinle düşüş hasarını `5 × seviye` azaltabilirsin.
+
+#### 3. seviye — Uzmanlık
+
+**Ruh Yumruğu:** Tekniklerin ruhsal mühürler ve iç enerjiyle çalışır. Sarsan Avuç hasarı d8 olur; ruh, gölge ve büyüsel izleri sezmek için İnanç ve Ruhlar kontrolünde avantaj kazanırsın.
+
+**Savaş Dansçısı:** Bir turda en az 6 m hareket edip isabet ettiğinde +1 SS kazanırsın; sonraki turunun başına kadar. Aynı tur Rüzgâr Adımını ilk kullanımın 1 Ritim daha ucuzdur, bedeli 0 olabilir.
+
+### Yeminli
+
+**CLASS-008**
+
+- **Can Zarı:** d10; 1. seviyede `10 + DAY`, sonra `6 + DAY` CP.
+- **Kurtarmalar:** DAY, KAR.
+- **Zırhlar:** Hafif, orta, kalkan.
+- **Silahlar:** Basit ve askerî silahlar.
+- **Beceriler:** Atletizm, Gözdağı, İçgörü, İkna, İnanç ve Ruhlar veya Tıp arasından iki.
+- **Güç yeteneği:** GÜÇ veya KAR; özellik DC'sinde yüksek olan kullanılır.
+- **Başlangıç:** Orta zırh; kalkan; uzun kılıç veya savaş çekici; yemin odağı; gezgin paketi.
+
+#### 1. seviye — Azim ve Yemin Darbesi
+
+Azim havuzun uzmanlık bonusuna eşittir; uzun molada tamamı, kısa molada 1'i yenilenir. Karakterini bağlayan koruma, adalet, özgürlük veya intikam ilkesini bir Aspect cümlesiyle yaz.
+
+- **Yemin Darbesi:** Silah saldırın isabet ettikten sonra 1 Azim harca; `1d8` ışık veya ruh hasarı ekle. Zar 5, 11 ve 17. seviyelerde bir artar.
+- **Şifa Eli:** Ana Aksiyon ve 1 Azim; dokunduğun hedef `1d8 + KAR` CP kazanır. Aynı hedef bunu uzun mola başına bir kez alabilir.
+- **Meydan Okuma:** Hızlı Aksiyon ve 1 Azim; 9 m hedef KAR kurtarır, başarısızsa bir dakika sana karşı ilk saldırısında dezavantajlı değilse başka hedefe yaptığı ilk saldırı dezavantajlıdır; tur sonunda tekrar kurtarır.
+
+#### 2. seviye — Koruyucu Aura
+
+Bilincin açıkken 3 m içindeki sen ve müttefiklerin kurtarma atışlarına +1 ekler. Aynı isimli auralar üst üste binmez. Turunda Yemin Darbesi kullandığında aura içindeki bir müttefik KAR kadar geçici CP kazanır; tur başına bir kez.
+
+#### 3. seviye — Uzmanlık
+
+**Güneş Muhafızı:** Işık hasarına direnç kazanırsın. Aura içindeki müttefike isabet eden saldırıya Tepkiyle saldırganı işaretle; ona sonraki Yemin Darben d8 ek ışık hasarı verir.
+
+**İntikam Yemini:** Hızlı Aksiyonla gördüğün bir düşmanı bir dakika hüküm hedefin yap; ona doğru hareketin fırsat saldırısı doğurmaz. Kısa veya uzun mola başına bir kez.
+
+### Ozan
+
+**CLASS-009**
+
+- **Can Zarı:** d8; 1. seviyede `8 + DAY`, sonra `5 + DAY` CP.
+- **Kurtarmalar:** ÇEV, KAR.
+- **Zırhlar:** Hafif.
+- **Silahlar:** Basit silahlar, rapier, kısa yay.
+- **Beceriler:** Aldatma, El Çabukluğu, İçgörü, İkna, Performans, Tarih veya Büyü Bilgisi arasından dört.
+- **Güç yeteneği:** KAR.
+- **Başlangıç:** Hafif zırh; rapier veya kısa yay; müzik aleti; gösteri paketi.
+
+#### 1. seviye — İlham ve Ezgiler
+
+İlham havuzun `uzmanlık bonusu + 1`dir; uzun molada tamamı, kısa molada 1'i yenilenir. İlham zarın d6'dır. Bir yaratık aynı atışta yalnızca bir İlham zarı kullanabilir.
+
+| Ezgi | Bedel ve etki |
+|---|---|
+| Cesaret Nakaratı | Hızlı, 1 İlham; 9 m hedef 10 dakika içindeki saldırı, kurtarma veya beceri atışına d6 ekler |
+| Şifa Melodisi | Ana, 1 İlham; 9 m hedef `d6 + KAR` CP kazanır; hedef başına uzun molada bir kez |
+| Keskin Nota | Ana, 1 İlham; 18 m büyü saldırısı, `2d6` ses hasarı ve hedef Tepki kullanamaz |
+| Saptıran Ritim | Tepki, 1 İlham; 9 m düşmanın saldırısından d6 eksilt |
+
+#### 2. seviye — Doğaçlama
+
+Uzman olmadığın bir beceri kontrolüne uzmanlık bonusunun yarısını ekle. Başarısız Performans, İkna veya Aldatma kontrolünü yeniden atabilirsin; kısa veya uzun mola başına bir kez.
+
+#### 3. seviye — Uzmanlık
+
+**Savaş Ezgicisi:** Orta zırh uzmanlığı kazanırsın. Cesaret Nakaratı alan hedef, zarı kullandığında Tepkisiyle 1,5 m hareket edebilir.
+
+**Ruh Sanatçısı:** Şifa Melodisi hedefe ayrıca KAR kadar geçici CP verir. Ruhsal izleri ses, renk veya duygu olarak algılayabilirsin.
+
+### Antlaşmalı
+
+**CLASS-010**
+
+- **Can Zarı:** d8; 1. seviyede `8 + DAY`, sonra `5 + DAY` CP.
+- **Kurtarmalar:** SEZ, KAR.
+- **Zırhlar:** Hafif.
+- **Silahlar:** Basit silahlar.
+- **Beceriler:** Aldatma, Büyü Bilgisi, Gözdağı, İçgörü, İnanç ve Ruhlar veya Tarih arasından iki.
+- **Güç yeteneği:** KAR.
+- **Başlangıç:** Hafif zırh; hançer veya asa; pakt odağı; bilgin paketi.
+
+#### 1. seviye — Mühür ve Pakt Gücü
+
+Karakter oluştururken pakt kaynağını, alanını ve bağ biçimini seç. Bu kaynak oyuncunun iradesini yönetmez; talepleri Aspect/Compel kurallarıyla sunulur. Mühür havuzun uzmanlık bonusuna eşittir ve kısa veya uzun molada yenilenir.
+
+- **Pakt Atışı:** Ana Aksiyonla 18 m menzilli büyü saldırısı; `1d10` ruh, nekrotik veya kaynakla uyumlu enerji hasarı. Zar sayısı 5, 11 ve 17. seviyede artar.
+- **Lanet Mührü:** Hızlı Aksiyon ve 1 Mühür; 18 m hedef bir dakika işaretlenir, ona tur başına ilk hasarın KAR kadar artar.
+- **Karanlık Adım:** Hızlı Aksiyon ve 1 Mühür; 6 m ışınlan.
+- **Pakt Kalkanı:** Tepki ve 1 Mühür; aldığın hasarı `1d8 + KAR` azalt.
+
+#### 2. seviye — Bedelli Güç
+
+Turunda bir pakt tekniğinin Mühür bedelini 1 azaltmak için `1d6` önlenemez CP kaybedebilirsin; bedel 0 olabilir. Bu kayıp seni 0 CP'ye düşüremez ve tur başına bir kez uygulanır. Kısa mola sonunda bütün Mühürlerin yenilenir.
+
+#### 3. seviye — Uzmanlık
+
+**Karanlık Aracı:** Lanet Mührünün hedefi 0 CP'ye düştüğünde KAR kadar geçici CP kazanırsın ve laneti 9 m içindeki başka hedefe aktarabilirsin.
+
+**Zincir Kıran:** Büyülenmiş veya Korkmuş durumuna karşı kurtarmalarda avantaj kazanırsın. Pakt Kalkanını 9 m içindeki müttefike Tepkiyle uygulayabilirsin.
+
+### Şekil Değiştirici
+
+**CLASS-011**
+
+- **Can Zarı:** d10; 1. seviyede `10 + DAY`, sonra `6 + DAY` CP.
+- **Kurtarmalar:** DAY, SEZ.
+- **Zırhlar:** Hafif.
+- **Silahlar:** Basit silahlar ve doğal silahlar.
+- **Beceriler:** Akrobasi, Algı, Atletizm, Doğa, Gizlilik, Hayatta Kalma veya Hayvan İdaresi arasından üç.
+- **Güç yeteneği:** SEZ.
+- **Başlangıç:** Hafif zırh; mızrak veya iki pençe bıçağı; avcı paketi.
+
+#### 1. seviye — Vahşet ve Dönüşüm
+
+Vahşet havuzun uzmanlık bonusuna eşittir; uzun molada tamamı, kısa molada 1'i yenilenir. Hızlı Aksiyon ve 1 Vahşetle 10 dakika dönüşürsün. Ekipmanın üzerinde kalır ve istatistiklerin değişmez; `2 + SEZ` geçici CP, d8 doğal silah ve bir biçim uyumu kazanırsın:
+
+- **Yırtıcı:** Hız +3 m.
+- **Muhafız:** SS +1.
+- **Sinsice:** Karanlık görüş 18 m ve Gizlilikte avantaj; zaten karanlık görüşün varsa 9 m artar.
+
+Dönüşüm Baygın olunca veya Hızlı Aksiyonla biter. Geçici CP kaybı gerçek CP'ye taşmaz.
+
+#### 2. seviye — Yırtıcı Hamle
+
+Dönüştüğün tur 3 m güvenli hareket edebilirsin. Doğal silah isabetinden sonra 1 Vahşet harcayarak d8 ek hasar ver ve hedefe GÜÇ kurtarması yaptır; başarısızsa Yere Düşer veya 3 m itilir.
+
+#### 3. seviye — Uzmanlık
+
+**Yabanbiçim:** Yırtıcı, Muhafız ve Sinsice uyumlarından dönüşüm başına ikisini seçersin. Doğal arazi takibinde avantaj kazanırsın.
+
+**Kadim Kan:** Dönüşürken ateş, soğuk, yıldırım veya zehir seç; o türe direnç ve doğal saldırına tur başına bir kez d6 ek hasar kazanırsın.
+
+### Çağırıcı
+
+**CLASS-012**
+
+- **Can Zarı:** d8; 1. seviyede `8 + DAY`, sonra `5 + DAY` CP.
+- **Kurtarmalar:** ZEK, SEZ.
+- **Zırhlar:** Hafif.
+- **Silahlar:** Basit silahlar ve kısa yay.
+- **Beceriler:** Büyü Bilgisi, Doğa, Hayvan İdaresi, İnanç ve Ruhlar, İnceleme veya Tarih arasından üç.
+- **Güç yeteneği:** ZEK veya SEZ; karakter oluştururken yüksek olan kullanılır.
+- **Başlangıç:** Hafif zırh; asa veya kısa yay; çağırma odağı; bilgin paketi.
+
+#### 1. seviye — Komuta ve Yoldaş
+
+Komuta havuzun `uzmanlık bonusu + 2`dir; uzun molada tamamı, kısa molada 1'i yenilenir. Uzun mola sonunda yoldaşının görünümünü hayvan, ruh, bitki, gölge, Hiçlik izi veya yapay tezahür olarak belirle; görünüm hasar türünü değiştirmez.
+
+| Yoldaş değeri | Kural |
+|---|---|
+| SS | `12 + uzmanlık bonusu` |
+| CP | `5 + (3 × seviye) + güç modifikatörü` |
+| Hız | 9 m |
+| Kurtarmalar | Sahibinin uzmanlık bonusunu kullanır |
+| Saldırı | `d20 + uzmanlık + güç modifikatörü`; `1d6 + uzmanlık` fiziksel veya ruh hasarı |
+
+Yoldaş inisiyatifini paylaşır ve senden hemen sonra oynar. Emir almazsa yalnız hareket ve Savun aksiyonu kullanır. Hızlı Aksiyonla saldırı, yardım, geri çekilme veya etkileşim emri verirsin. 0 CP'de dağılır; çatışma dışında 1 dakika ve 1 Komutayla yeniden çağrılır.
+
+#### 2. seviye — Bağlı Emir
+
+Hızlı Aksiyon ve 1 Komutayla özel emir ver: yoldaş saldırmadan önce 6 m güvenli hareket eder ve isabetinde d8 ek hasar verir; alternatif olarak 3 m içindeki müttefike `d8 + güç modifikatörü` geçici CP verir. Tur başına bir özel emir.
+
+#### 3. seviye — Uzmanlık
+
+**Sürü Efendisi:** Yoldaşın müttefiğe bitişik hedefe saldırırken avantaj kazanır. Özel emir hasar zarı d10 olur.
+
+**Ruh Kapısı:** Yoldaşın ruh hasarı verebilir. Hızlı Aksiyon ve 1 Komutayla 18 m içindeyken yoldaşınla yer değiştirebilirsin; kısa veya uzun mola başına bir kez.
 
 ## Sınıf temasını yeniden yorumlama
 

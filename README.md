@@ -16,7 +16,7 @@ Runeterra'nın bölgelerinden esinlenen, Türkçe ve bağımsız bir d20 homebre
 
 - 1–20 seviye için matematik ve ilerleme omurgası
 - Tam oynanabilir 1–20. seviye sınıf ilerlemesi
-- 12 bölge, 5 soy, 6 sınıf ve 12 uzmanlık
+- 12 bölge, 9 soy, 12 sınıf ve 24 uzmanlık
 - Bağımsız savaş, dinlenme, ölüm ve Yara kuralları
 - Fate esintili Aspect, Invoke ve Compel sistemi
 - Düşman ve homebrew üretme araçları
