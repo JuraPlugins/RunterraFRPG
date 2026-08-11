@@ -375,6 +375,19 @@ Ruh duvarlardan geçmez; uçmaz, görünmez olmaz ve fiziksel hasara bağışık
 
 Bir Havari kaynağının sadık hizmetkârı, isteksiz taşıyıcısı, terk edilmiş öğrencisi veya kaynağın gerçek amacından şüphelenen bir asi olabilir. İşaret görünür bir yıldız izi, değişen gözler, rüyalarda konuşan bir ses veya yalnız büyü altında beliren bir mühür şeklinde anlatılabilir.
 
+**RACE-APOSTLE-003 — Aşkın kaynağı oyuna getirme:** Havari oluştururken dört seçim yapılır:
+
+1. **Kaynak:** Bir ilah/tanrıça, ruh, Targon Sureti, kozmik irade, ata veya GM ile oluşturulmuş özgün varlık seç.
+2. **Alan:** Kaynağın bu karakterde yankılanan yönünü seç. Aynı varlığın farklı Havarileri farklı alanlara bağlanabilir.
+3. **Bağ:** Sadık hizmetkâr, isteksiz seçilmiş, sorgulayan mürid, terk edilmiş elçi, borçlu taşıyıcı veya bağı koparmak isteyen seçeneklerinden birini yaz.
+4. **İşaret:** Rüya, yara izi, değişen göz, ses, mühür, olağandışı hava olayı ya da yalnız büyü altında beliren bir alamet belirle.
+
+Kaynak oyuna doğrudan sahneye inerek değil, önce **işaretler ve sonuçlar** üzerinden girer. GM rüyalar, semboller, ruh izleri, tesadüfler, elçiler veya karşıt tarikatlar gösterebilir; bunlar kesin emir veya oyuncunun kararını elinden alan zihin kontrolü değildir. Kaynağın isteği karakterin Kişisel Çatışma Aspect'i üzerinden Compel edilirse normal Rün Puanı kuralları uygulanır.
+
+**RACE-APOSTLE-004 — Gücün açılması:** Seçilen alan yetenek ağacında tematik yetenekleri öne çıkarır fakat ücretsiz yetenek vermez. Yeni büyüler, göksel biçimler, çağırmalar ve doğrudan ilahi müdahaleler yalnız sınıf özelliği, İmza Yeteneği, eşya veya GM'nin açık hikâye ödülüyle kazanılır. Böylece “varlık beni seçti” anlatısı, başlangıçta yüksek seviye bir gücü otomatik olarak getirmez.
+
+**RACE-APOSTLE-005 — Ruhban birleşimi:** Havari aynı zamanda Ruhbansa varsayılan olarak Aşkın Yankı ile Lütuf aynı kaynaktan gelir. Karakter ikinci bir kaynak havuzu, ek dua veya ikinci bir Aşkın Yankı kazanmaz; GM kampanya için iki ayrı bağa izin verirse bunun bedelleri yalnız anlatısaldır.
+
 ### Aşkın Yankı açıklamaları
 
 - Alan karakter oluşturulurken seçilir ve GM'nin onayı olmadan değişmez.

@@ -298,6 +298,27 @@ Cantripler karakter seviyesi 5, 11 ve 17'de bir ek hasar zarı kazanır.
 - **Güç yeteneği:** SEZ.
 - **Başlangıç:** Orta veya hafif zırh; kalkan ve savaş çekici veya kısa yay; şifacı paketi; inanç odağı.
 
+#### İnanç kaynağı ve kutsal bağ
+
+**CLASS-CLERIC-FAITH-001 — Kaynak seçimi:** Ruhban oluştururken Lütfunun kaynağını seç. Kaynak bir tanrı veya tanrıça olmak zorunda değildir; Runeterra'daki bir ruh, yarı-tanrı, Targon Sureti, ata geleneği, kişisel yemin ya da merhamet ve adalet gibi bir ideal de olabilir.
+
+| Örnek kaynak | Olası alanlar | Oyun tonu |
+|---|---|---|
+| Nagakabouros | Değişim, Doğa | Hareket, sınanma ve yaşamın akışı |
+| Kindred | Ölüm | Sonlar, geçiş ve ölümle yüzleşme |
+| Janna | Koruma, Değişim, Doğa | Umut, rüzgâr ve mazlumları koruma |
+| Ornn | Zanaat, Koruma | Emek, ateş, eser ve dayanıklılık |
+| Anivia | Koruma, Doğa, Ölüm | Kış, fedakârlık ve yeniden doğuş |
+| Volibear | Savaş, Doğa | Fırtına, yaban ve eski güç |
+| Targon Sureti | Koruma, Savaş, Bilgi, Ölüm, Yıldızlar | Göksel bir kavramın ölümlü yankısı |
+| Ruh veya ata | Koruma, Bilgi, Doğa, Ölüm | Yerel gelenek, soy bağı ve hatıra |
+| Yemin veya ideal | Seçilen ideale uygun alan | Tanrısız ama mekanik olarak geçerli inanç |
+| Özgün aşkın varlık | GM ile seçilir | Kampanyaya özel kaynak |
+
+Kaynakla ilişkin için ayrıca bir **bağ biçimi** seç: sadık, isteksiz, sorgulayan, terk edilmiş, borçlu veya bağını koparmaya çalışan. Bu seçim Ruhbanın iradesini GM'ye devretmez. Emirler, krizler ve inanç sınavları Aspect/Compel döngüsüyle teklif edilir; oyuncu güvenlik sınırları ve Rün Puanı kuralları içinde reddedebilir.
+
+**CLASS-CLERIC-FAITH-002 — Mekanik etkisi:** Kaynak ve alan, yetenek ağacında uyumlu seçenekleri öne çıkarır ve Lütuf/dua görünümünü belirler. Otomatik büyü, hasar türü, direnç veya ek Lütuf vermez. Bir Havari-Ruhban varsayılan olarak tek kaynak seçer; Havari özelliği ile Ruhban sınıfı ayrı kullanım hakları üretmez.
+
 #### 1. seviye — Lütuf ve dualar
 
 Lütuf havuzun uzmanlık bonusuna eşittir ve uzun molada yenilenir. Üç dua öğrenirsin; seviye 2 ve 3'te birer dua daha öğrenirsin. Dua saldırın `uzmanlık + SEZ`, dua DC'n `8 + uzmanlık + SEZ`dir.
