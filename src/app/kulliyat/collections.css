@@ -79,3 +79,51 @@
 
 @media (max-width: 1000px) { .ability-card-grid { grid-template-columns: repeat(3,1fr); }.lore-grid { grid-template-columns: repeat(2,1fr); }.lore-detail-hero { grid-template-columns: 1fr; }.lore-detail-art { min-height: 390px; }.lore-detail-art::after { background: linear-gradient(to top, rgba(9,23,24,.95), transparent 50%); }.lore-detail-intro { margin-top: -80px; padding-top: 20px; }.lore-detail-layout { grid-template-columns: 220px minmax(0,1fr); gap: 35px; } }
 @media (max-width: 700px) { .collection-landing, .lore-grid { grid-template-columns: 1fr; }.lore-card-large .lore-card-image { height: 240px; }.lore-card-image { height: 190px; }.collection-header-row { display: block; }.collection-count { margin-top: 25px; }.ability-card-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }.ability-lore-image { height: 95px; }.catalog-tools { align-items: stretch; flex-direction: column; }.catalog-result { text-align: left; }.lore-detail { width: 100%; padding-top: 20px; }.lore-detail > .back-link { margin-left: 13px; }.lore-detail-hero { border-inline: 0; }.lore-detail-art { min-height: 310px; }.lore-detail-intro { padding: 25px 20px 35px; }.lore-detail-layout { grid-template-columns: 1fr; padding-inline: 13px; }.guide-callout { align-items: flex-start; flex-direction: column; }.guide-callout .button { width: 100%; }.ability-lore-copy h2 { font-size: 15px; }.ability-lore-copy code { display: none; } }
+
+/* Interactive ability cards */
+.ability-filter-bar { display: grid; gap: 10px; margin: 16px 0 31px; padding: 14px; border: 1px solid var(--line); background: rgba(8,22,23,.64); }
+.ability-filter-bar .category-pills { margin: 0; }
+.ability-mode-pills button { display: inline-flex; align-items: center; gap: 7px; font-weight: 700; }
+.ability-source-pills { padding-top: 10px; border-top: 1px solid var(--line); }
+.ability-source-pills button { padding-block: 7px; font-size: 9px; }
+.ability-game-card { --card-accent: #2ba9c7; position: relative; isolation: isolate; aspect-ratio: .72; min-width: 0; padding: 0; overflow: hidden; color: var(--ink); border: 1px solid #887957; border-radius: 46% 46% 9% 9% / 18% 18% 5% 5%; background: linear-gradient(145deg,#667579 0 5%,#17282d 6% 48%,#071214 49% 100%); box-shadow: inset 0 0 0 3px #19252a, inset 0 0 0 5px rgba(220,196,139,.55), 0 13px 28px rgba(0,0,0,.34); cursor: pointer; text-align: left; transition: transform .25s ease, filter .25s ease, box-shadow .25s ease; }
+.ability-game-card.passive, .ability-modal-card.passive { --card-accent: #a693d7; }
+.ability-game-card::before, .ability-modal-card::before { content: ""; position: absolute; z-index: 2; inset: 2.2%; pointer-events: none; border: 1px solid rgba(239,219,164,.48); border-radius: inherit; box-shadow: inset 0 0 14px rgba(0,0,0,.8); }
+.ability-game-card:hover { transform: translateY(-7px) scale(1.012); filter: saturate(1.09); box-shadow: inset 0 0 0 3px #19252a, inset 0 0 0 5px rgba(232,207,143,.7), 0 24px 45px rgba(0,0,0,.48), 0 0 22px color-mix(in srgb,var(--card-accent) 25%,transparent); }
+.ability-game-card:focus-visible { outline: 2px solid var(--gold-light); outline-offset: 4px; }
+.ability-card-art { position: absolute; z-index: 1; top: 4%; left: 9%; width: 82%; aspect-ratio: 1; overflow: hidden; border: 5px solid #152126; border-radius: 50%; background: #071112; box-shadow: 0 0 0 2px #938665, 0 7px 22px #000; }
+.ability-card-art::after { content: ""; position: absolute; inset: 0; background: linear-gradient(145deg,rgba(255,255,255,.12),transparent 28%,rgba(0,0,0,.32)); }
+.ability-card-art img { object-fit: cover; filter: saturate(.86) contrast(1.08); transition: transform .5s ease, filter .3s ease; }
+.ability-game-card:hover .ability-card-art img { transform: scale(1.06); filter: saturate(1.08) contrast(1.08); }
+.ability-card-cost { position: absolute; z-index: 5; top: 3%; left: 1.5%; display: grid; place-items: center; width: 21%; aspect-ratio: 1; color: #f8fbff; border: 3px solid #b5b19a; border-radius: 50%; background: radial-gradient(circle at 40% 35%,#53d7ed 0 12%,#137eae 35%,#083a66 67%,#031929 69%); box-shadow: inset 0 0 0 3px #122331,0 3px 12px #000; font: 700 clamp(18px,2vw,31px)/1 var(--serif); text-shadow: 0 2px 2px #000; }
+.ability-card-body { position: absolute; z-index: 3; inset: 48% 5.2% 6%; display: flex; flex-direction: column; align-items: center; padding: 10% 7% 14%; text-align: center; background: linear-gradient(180deg,rgba(7,17,20,.83),#050b0e 45%); border: 1px solid #53626a; clip-path: polygon(8% 0,92% 0,100% 9%,100% 92%,92% 100%,8% 100%,0 92%,0 9%); }
+.ability-card-body::before { content: ""; position: absolute; inset: 3px; z-index: -1; border: 1px solid rgba(181,161,109,.35); clip-path: inherit; }
+.ability-card-body small { width: 100%; color: var(--card-accent); overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-size: 7px; font-style: normal; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.ability-card-body strong { display: -webkit-box; width: 100%; margin: 7px 0; overflow: hidden; color: #f0eadc; font: 700 clamp(13px,1.55vw,20px)/1.08 var(--serif); text-align: center; text-shadow: 0 2px 3px #000; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+.ability-card-body em { display: -webkit-box; overflow: hidden; color: #c2ccca; font: normal 9px/1.42 var(--sans); -webkit-box-orient: vertical; -webkit-line-clamp: 4; }
+.ability-card-meta { width: 100%; margin-top: auto; overflow: hidden; color: #839794; white-space: nowrap; text-overflow: ellipsis; font-size: 7px; text-transform: uppercase; letter-spacing: .06em; }
+.ability-card-mode { position: absolute; z-index: 6; bottom: 1.2%; left: 25%; width: 50%; padding: 5px 8px; color: #d8e2e1; border: 1px solid #756c55; background: linear-gradient(#273034,#11191c); box-shadow: 0 2px 5px #000; text-align: center; font: 800 7px/1 var(--sans); letter-spacing: .2em; }
+.ability-game-card.active .ability-card-mode { color: #85dff0; }
+.ability-game-card.passive .ability-card-mode { color: #c8b8f3; }
+body.modal-open { overflow: hidden; }
+.ability-modal-backdrop { position: fixed; z-index: 500; inset: 0; display: grid; place-items: center; padding: 22px; background: rgba(2,7,9,.9); backdrop-filter: blur(10px); animation: ability-fade-in .18s ease-out; }
+.ability-modal { position: relative; display: grid; grid-template-columns: minmax(245px,320px) minmax(0,1fr); gap: 38px; width: min(910px,100%); max-height: min(760px,92vh); overflow: auto; padding: 36px; border: 1px solid var(--line-bright); background: radial-gradient(circle at 18% 15%,rgba(35,121,126,.16),transparent 33%),linear-gradient(145deg,#102526,#061112 65%); box-shadow: 0 35px 110px rgba(0,0,0,.75); animation: ability-rise-in .22s ease-out; }
+.ability-modal-close { position: absolute; z-index: 10; top: 14px; right: 14px; display: grid; place-items: center; width: 38px; height: 38px; color: var(--muted); border: 1px solid var(--line); background: #091719; cursor: pointer; }
+.ability-modal-close:hover { color: var(--ink); border-color: var(--gold); }
+.ability-modal-card { --card-accent: #2ba9c7; position: relative; align-self: center; aspect-ratio: .72; overflow: hidden; border: 1px solid #887957; border-radius: 46% 46% 9% 9% / 18% 18% 5% 5%; background: linear-gradient(145deg,#667579 0 5%,#17282d 6% 48%,#071214 49% 100%); box-shadow: inset 0 0 0 3px #19252a,inset 0 0 0 5px rgba(220,196,139,.55),0 18px 40px rgba(0,0,0,.48); }
+.ability-modal-card .ability-card-art { top: 8%; }
+.ability-modal-card .ability-card-mode { bottom: 5%; }
+.ability-modal-copy { align-self: center; min-width: 0; padding-right: 8px; }
+.ability-modal-copy h2 { margin: 9px 0 17px; color: #f0eadc; font: 600 clamp(34px,5vw,58px)/.98 var(--serif); }
+.ability-modal-effect { color: #bcc9c7; font-size: 14px; line-height: 1.75; }
+.ability-modal-copy dl { display: grid; grid-template-columns: 1fr 1fr; margin: 27px 0 0; border-top: 1px solid var(--line-bright); }
+.ability-modal-copy dl div { min-width: 0; padding: 12px 12px 12px 0; border-bottom: 1px solid var(--line); }
+.ability-modal-copy dt { color: var(--muted); font-size: 7px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+.ability-modal-copy dd { margin: 5px 0 0; color: #dce4e2; font: 500 12px/1.5 var(--serif); overflow-wrap: anywhere; }
+.ability-modal-copy footer { display: flex; justify-content: space-between; align-items: center; gap: 18px; margin-top: 22px; color: var(--muted); font-size: 8px; }
+.ability-modal-copy footer code { color: var(--gold); background: transparent; }
+.ability-modal-copy footer span { display: inline-flex; align-items: center; gap: 6px; }
+@keyframes ability-fade-in { from { opacity: 0; } }
+@keyframes ability-rise-in { from { opacity: 0; transform: translateY(16px) scale(.985); } }
+@media (max-width: 1000px) { .ability-game-card .ability-card-body em { -webkit-line-clamp: 3; }.ability-modal { grid-template-columns: minmax(220px,280px) minmax(0,1fr); gap: 26px; padding: 28px; } }
+@media (max-width: 700px) { .ability-filter-bar { padding: 10px; }.ability-mode-pills { display: grid; grid-template-columns: 1fr; }.ability-mode-pills button { justify-content: center; }.ability-source-pills { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 3px; }.ability-source-pills button { flex: 0 0 auto; }.ability-game-card { border-radius: 43% 43% 9% 9% / 15% 15% 5% 5%; }.ability-card-body { padding-inline: 5%; }.ability-card-body em { font-size: 7.5px; -webkit-line-clamp: 3; }.ability-card-body strong { font-size: 13px; }.ability-modal { grid-template-columns: 1fr; width: min(430px,100%); padding: 52px 18px 25px; }.ability-modal-card { display: none; }.ability-modal-copy { padding: 0; }.ability-modal-copy dl { grid-template-columns: 1fr; }.ability-modal-copy footer { align-items: flex-start; flex-direction: column; } }
