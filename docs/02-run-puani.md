@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rün Puanı
 slug: /run-puani
 order: 2
@@ -35,7 +35,7 @@ Her karakter üç kalıcı Aspect yazar:
 
 **RP-003 — Sınır:** Bir karakter en fazla 5 RP taşıyabilir. 5 RP'deyken kazanılan fazla puan kaybolur; oyuncu, Compel sonucundaki komplikasyonu yine de kabul edebilir.
 
-**RP-004 — Ayrı ekonomi:** RP; Efor, Momentum, Odak, büyü yuvası, Lütuf, Yük, CP veya başka bir sınıf kaynağına dönüştürülemez. Sınıf özelliği açıkça RP demedikçe RP o özelliğin kullanım bedelini karşılamaz.
+**RP-004 — Ayrı ekonomi:** RP; Efor, Momentum, Odak, büyü yuvası, Lütuf, Yük, Ritim, Azim, İlham, Mühür, Vahşet, Komuta, Öfke, CP veya başka bir sınıf kaynağına dönüştürülemez. Sınıf özelliği açıkça RP demedikçe RP o özelliğin kullanım bedelini karşılamaz.
 
 ## Invoke: Aspect'i avantaja çevirmek
 

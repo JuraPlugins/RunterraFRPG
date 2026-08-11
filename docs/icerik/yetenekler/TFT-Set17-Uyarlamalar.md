@@ -22,7 +22,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: N.O.V.A., Müdafi.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -37,7 +37,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: Anima, Primordia'lı, Sinsi.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `1d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -52,7 +52,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: N.O.V.A., Kaderbaz.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `1d6` fiziksel hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -67,7 +67,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: Sonsuz Karanlık, Dövüşçü.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -82,7 +82,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: Zamankıran, Keskin Nişancı.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -97,7 +97,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: Hâkim, Öncü.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -127,7 +127,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: Uzayın Ritmi, Öncü.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -142,7 +142,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: Micingil, Müdafi.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -157,7 +157,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: Primordia'lı, Dövüşçü.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -172,7 +172,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: Yıldız Gözlemcisi, Sinsi.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -202,7 +202,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 1 bedel; özellikler: Yıldız Gözlemcisi, Kaderbaz.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` enerji hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -232,7 +232,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: N.O.V.A., Yağmacı.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -247,7 +247,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Primordia'lı, Atılgan, Yağmacı.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `1d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -262,7 +262,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Micingil, Dövüşçü, Keskin Nişancı.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -277,7 +277,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Psionik, Dövüşçü.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -292,7 +292,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Uzayın Ritmi, Sinsi.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` enerji hasarı ekler.
@@ -307,7 +307,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Yıldız Gözlemcisi, Müdafi.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -322,7 +322,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Anima, Atılgan.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -337,7 +337,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Micingil, Kılavuz, Seyyah.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -352,7 +352,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Zamankıran, Kaderbaz.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` enerji hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -367,7 +367,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Sonsuz Karanlık, Medyum, Öncü.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -382,7 +382,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Zamankıran, Dövüşçü, Replikacı.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -397,7 +397,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 2 bedel; özellikler: Psionik, Seyyah.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` ruh hasarı ekler.
@@ -442,7 +442,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: Hâkim, Atılgan.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -457,7 +457,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: Micingil, Sinsi.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` enerji hasarı ekler.
@@ -472,7 +472,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: Anima, Öncü, Kılavuz.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -487,7 +487,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: Sonsuz Karanlık, Sinsi.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `2d6` fiziksel, başarıda yarı hasar alır.
@@ -517,7 +517,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: N.O.V.A., Dövüşçü.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -532,7 +532,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: Çelik İntikam, Özellik Seç.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Düzenbaz, Avcı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Savaşçı, Düzenbaz, Avcı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -547,7 +547,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: Uzayın Ritmi, Müdafi.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -562,7 +562,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: Arındırıcı.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -577,7 +577,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: Uzayın Ritmi, Keskin Nişancı.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` ateş hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -592,7 +592,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 3 bedel; özellikler: Meka, Dövüşçü, Yağmacı.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -637,7 +637,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: Micingil, Kaderbaz.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -667,7 +667,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: N.O.V.A., Atılgan.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `3d8` fiziksel hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -697,7 +697,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: Psionik, Yağmacı.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `3d8 + yetenek modifikatörü` psişik hasarı verir.
@@ -712,7 +712,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: Karanlık Leydi, Medyum.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -727,7 +727,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: Meka, Seyyah.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -757,7 +757,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: Yıldız Gözlemcisi, Öncü.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -772,7 +772,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: Micingil, Müdafi.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -787,7 +787,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: Zamankıran, Sinsi.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -802,7 +802,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: Kâhin, Dövüşçü.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -817,7 +817,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 4 bedel; özellikler: Yıldız Gözlemcisi, Keskin Nişancı.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `3d8 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -847,7 +847,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 5 bedel; özellikler: Parti Patisi, Uzayın Ritmi, Öncü.
 - **Kademe:** IV — Efsane; asgari seviye 16.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `5d8 + yetenek modifikatörü` yıldırım hasarı ver.
@@ -862,7 +862,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 5 bedel; özellikler: Ulvi Düellocu, Anima, Yağmacı.
 - **Kademe:** IV — Efsane; asgari seviye 16.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `4d8 + yetenek modifikatörü` CP kazanır.
@@ -877,7 +877,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 5 bedel; özellikler: Özel Yapım.
 - **Kademe:** IV — Efsane; asgari seviye 16.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `5d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -892,7 +892,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 5 bedel; özellikler: Sonsuz Karanlık, Yok Edici, Keskin Nişancı.
 - **Kademe:** IV — Efsane; asgari seviye 16.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `4d8 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -907,7 +907,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 5 bedel; özellikler: Siper, Zamankıran, Müdafi.
 - **Kademe:** IV — Efsane; asgari seviye 16.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `4d8 + yetenek modifikatörü` azalt.
@@ -952,7 +952,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** TFT Set 17, 5 bedel; özellikler: Galaksi Avcısı.
 - **Kademe:** IV — Efsane; asgari seviye 16.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `5d8 + yetenek modifikatörü` fiziksel hasarı ver.

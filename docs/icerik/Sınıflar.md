@@ -9,7 +9,7 @@ rules_scope: levels 1-20 playable
 
 # Sınıflar ve Uzmanlıklar
 
-Bu katalog, Runeterra FRP'nin on iki oynanabilir sınıfını ve yirmi dört uzmanlığını içerir. Sınıf karakterin kişiliğini, mesleğini, bölgesini veya inancını değil; tehlike karşısında kullandığı ana mekanik araçları belirler.
+Bu katalog, Runeterra FRP'nin on üç oynanabilir sınıfını ve yirmi altı uzmanlığını içerir. Sınıf karakterin kişiliğini, mesleğini, bölgesini veya inancını değil; tehlike karşısında kullandığı ana mekanik araçları belirler.
 
 Karakter oluşturma sırası için [Karakter Yaratımı](../03-karakter-yaratimi.md), aksiyonlar ve çatışma için [Temel Kurallar](../01-temel-kurallar.md), bölgesel karakter fikirleri için [Bölgeler ve Kültürel Kökenler](Bölgeler.md), ekipman seçenekleri için [İtemler ve Ekipman Kataloğu](Itemler.md), ortak büyü ve kaynak etkileşimleri için [Büyü ve Güç Kaynakları](Büyü-ve-Güç-Kaynakları.md) kullanılır.
 
@@ -29,6 +29,7 @@ Karakter oluşturma sırası için [Karakter Yaratımı](../03-karakter-yaratimi
 | Antlaşmalı | d8 | Pakt, lanet, bedelli güç | KAR | Mühür | Karanlık Aracı, Zincir Kıran |
 | Şekil Değiştirici | d10 | Dönüşüm, dayanıklılık, hücum | SEZ | Vahşet | Yabanbiçim, Kadim Kan |
 | Çağırıcı | d8 | Yoldaş, tezahür, komuta | ZEK veya SEZ | Komuta | Sürü Efendisi, Ruh Kapısı |
+| Barbar | d12 | Öfke, dayanıklılık, yıkıcı darbeler | GÜÇ | Öfke | Çılgın Savaşçı, Totem Taşıyıcı |
 
 ## 4–20. seviye sınıf kitapçıkları
 
@@ -44,8 +45,9 @@ Karakter oluşturma sırası için [Karakter Yaratımı](../03-karakter-yaratimi
 - [Antlaşmalı — 4–20](siniflar/Antlasmali-4-20.md)
 - [Şekil Değiştirici — 4–20](siniflar/Sekil-Degistirici-4-20.md)
 - [Çağırıcı — 4–20](siniflar/Cagirici-4-20.md)
+- [Barbar — 4–20](siniflar/Barbar-4-20.md)
 
-Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu on iki kitapçık 4–20 özelliklerini, uzmanlık gelişimlerini ve gerekli yüksek seviye güç listelerini tamamlar.
+Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu on üç kitapçık 4–20 özelliklerini, uzmanlık gelişimlerini ve gerekli yüksek seviye güç listelerini tamamlar.
 
 ## Ortak sınıf kuralları
 
@@ -59,7 +61,7 @@ Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu on iki kitapç�
 
 **CLASS-CORE-005 — Güç saldırısı ve DC:** Bir sınıf özelliği aksi söylemedikçe güç saldırısı `d20 + uzmanlık bonusu + güç yeteneği`, kurtarma DC'si `8 + uzmanlık bonusu + güç yeteneği`dir.
 
-**CLASS-CORE-006 — Kaynak ayrılığı:** Efor, Momentum, Odak, büyü yuvası, Lütuf, Yük, Ritim, Azim, İlham, Mühür, Vahşet ve Komuta birbirine veya Rün Puanına dönüştürülemez. Bir özellik açıkça söylemedikçe bir sınıf kaynağı diğer sınıfın etkisini ödeyemez.
+**CLASS-CORE-006 — Kaynak ayrılığı:** Efor, Momentum, Odak, büyü yuvası, Lütuf, Yük, Ritim, Azim, İlham, Mühür, Vahşet, Komuta ve Öfke birbirine veya Rün Puanına dönüştürülemez. Bir özellik açıkça söylemedikçe bir sınıf kaynağı diğer sınıfın etkisini ödeyemez.
 
 **CLASS-CORE-007 — Aynı tetikleyici:** Bir saldırı, isabet, hasar alma veya kurtarma gibi tek tetikleyiciye aynı sınıftan yalnızca bir harcamalı teknik uygulanabilir. Eşya ve Rün Puanı kendi yığılma sınırlarını ayrıca kullanır.
 
@@ -85,6 +87,7 @@ Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu on iki kitapç�
 | Mühür | Uzmanlık bonusu | Kısa veya uzun molada tamamı | Pakt teknikleri |
 | Vahşet | Uzmanlık bonusu | Uzun molada tamamı; kısa molada 1 | Dönüşüm teknikleri |
 | Komuta | Uzmanlık bonusu + 2 | Uzun molada tamamı; kısa molada 1 | Yoldaş emirleri ve tezahürler |
+| Öfke | Uzmanlık bonusu | Uzun molada tamamı; kısa molada 1 | Öfkeye girme ve vahşi teknikler |
 
 **CLASS-RESOURCE-001 — Çatışma başlangıcı:** Yalnızca Momentum çatışma başlangıcında özel olarak 1'e ayarlanır. Diğer kaynaklar mevcut değerlerini korur; inisiyatif atmak onları yenilemez.
 
@@ -108,6 +111,7 @@ Ana katalog 1–3. seviyenin sınıf çekirdeklerini içerir. Bu on iki kitapç�
 | Güçlü bir varlıkla yapılan anlaşmanın bedelini kullanmak | Antlaşmalı |
 | Farklı savaş biçimlerine dönüşerek uyum sağlamak | Şekil Değiştirici |
 | Tek bir güçlü yoldaşı büyütmek ve savaş alanında komuta etmek | Çağırıcı |
+| Hasarı göğüsleyip Öfkeyle ağır yakın saldırılar yapmak | Barbar |
 
 ## Oynanabilir kurallar ve ilerleme
 
@@ -164,6 +168,30 @@ Bu sürümde 1–20. seviyelerin tam sınıf kuralları vardır. Aşağıdaki ta
 | 18 | Uzmanlık V | Uzmanlık V | Uzmanlık V | Uzmanlık V | Uzmanlık V | Uzmanlık V |
 | 19 | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı | Yetenek Artışı |
 | 20 | Tek Nefes | Yaşayan Yemin | Dünyanın Şarkısı | Efendisiz Güç | İlk Biçim | Lejyonun Sesi |
+### Barbarın 1–20 ilerleme omurgası
+
+| Sv. | Barbar |
+|---:|---|
+| 1 | Öfke, Yalın Savunma |
+| 2 | Gözü Kara Saldırı, Tehlike Sezgisi |
+| 3 | Çılgın Savaşçı/Totem Taşıyıcı |
+| 4 | Yetenek Artışı |
+| 5 | Ek Saldırı |
+| 6 | Uzmanlık II |
+| 7 | Yırtıcı İçgüdü |
+| 8 | Yetenek Artışı |
+| 9 | Vahşi Kritik |
+| 10 | Uzmanlık III |
+| 11 | İnatçı Öfke |
+| 12 | Yetenek Artışı |
+| 13 | Vahşi Kritik II |
+| 14 | Uzmanlık IV |
+| 15 | Kesintisiz Öfke |
+| 16 | Yetenek Artışı |
+| 17 | Öfke Hasarı +4 |
+| 18 | Uzmanlık V |
+| 19 | Yetenek Artışı |
+| 20 | İlkel Şampiyon |
 ### Savaşçı
 
 **CLASS-001**
@@ -625,6 +653,41 @@ Hızlı Aksiyon ve 1 Komutayla özel emir ver: yoldaş saldırmadan önce 6 m g�
 **Sürü Efendisi:** Yoldaşın müttefiğe bitişik hedefe saldırırken avantaj kazanır. Özel emir hasar zarı d10 olur.
 
 **Ruh Kapısı:** Yoldaşın ruh hasarı verebilir. Hızlı Aksiyon ve 1 Komutayla 18 m içindeyken yoldaşınla yer değiştirebilirsin; kısa veya uzun mola başına bir kez.
+
+### Barbar
+
+**CLASS-013**
+
+- **Can Zarı:** d12; 1. seviyede `12 + DAY`, sonra `7 + DAY` CP.
+- **Kurtarmalar:** GÜÇ, DAY.
+- **Zırhlar:** Hafif, orta, kalkan.
+- **Silahlar:** Basit ve askerî silahlar.
+- **Beceriler:** Algı, Atletizm, Doğa, Gözdağı, Hayatta Kalma veya Hayvan İdaresi arasından üç.
+- **Güç yeteneği:** GÜÇ.
+- **Başlangıç:** Post zırh veya zırhsız savunma; büyük balta veya iki el baltası; dört cirit; gezgin paketi.
+
+#### 1. seviye — Öfke ve Yalın Savunma
+
+Öfke havuzun uzmanlık bonusuna eşittir; uzun molada tamamı, kısa molada 1'i yenilenir. Ağır zırh giymiyorken Hızlı Aksiyon ve 1 Öfkeyle bir dakika Öfkeye girersin:
+
+- GÜÇ kontrolleri ve GÜÇ kurtarmalarında avantaj kazanırsın.
+- Ezici, delici ve kesici hasara direnç kazanırsın.
+- GÜÇ kullanan yakın silah ve silahsız saldırı hasarına +2 eklersin. Bonus 9. seviyede +3, 17. seviyede +4 olur.
+- Turun bittiğinde son turundan beri düşmanca bir yaratığa saldırmadıysan ve hasar almadıysan Öfke biter. Baygın olursan da biter.
+
+**Yalın Savunma:** Zırh giymiyorken SS'n `10 + ÇEV + DAY` olur; kalkan kullanabilirsin. Site, post zırh ile Yalın Savunmadan yüksek olanı gösterir.
+
+#### 2. seviye — Gözü Kara Saldırı ve Tehlike Sezgisi
+
+**Gözü Kara Saldırı:** Turundaki ilk GÜÇ kullanan yakın saldırıyı avantajlı yapabilirsin; bunu seçersen sonraki turunun başına kadar sana yapılan saldırılar da avantajlıdır.
+
+**Tehlike Sezgisi:** Görebildiğin bir etkiden gelen ÇEV kurtarmalarında avantaj kazanırsın. Kör, Sağır veya Etkisizken çalışmaz.
+
+#### 3. seviye — Uzmanlık
+
+**Çılgın Savaşçı:** Öfkeliyken Hızlı Aksiyon ve 1 Öfkeyle bir yakın silah veya silahsız saldırı yapabilirsin. Büyülenmiş veya Korkmuş durumuna Öfke sırasında avantajlı kurtarırsın.
+
+**Totem Taşıyıcı:** Öfkeye girerken Ayı, Kurt veya Kartal seç. Ayı `uzmanlık bonusu + DAY` geçici CP; Kurt 3 m içindeki bir müttefikin hedefe ilk saldırısına +1; Kartal 3 m ek hız ve ilk fırsat saldırısına dezavantaj sağlar.
 
 ## Sınıf temasını yeniden yorumlama
 

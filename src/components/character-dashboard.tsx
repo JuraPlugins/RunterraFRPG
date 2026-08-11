@@ -81,7 +81,7 @@ export function CharacterDashboard({ abilities, items, classFeatures }: { abilit
   const dexMod = modifier(character.abilities.ceviklik);
   const calculatedMaxHp = selectedClass ? selectedClass.hpBase + conMod + Math.max(0, character.level - 1) * Math.max(1, selectedClass.hpPerLevel + conMod) : 1;
   const maxHp = runtime?.maxHpValue ?? calculatedMaxHp;
-  const defense = selectedClass ? selectedClass.defense === "medium-shield" ? 15 + Math.min(2, dexMod) : selectedClass.defense === "medium" ? 13 + Math.min(2, dexMod) : selectedClass.defense === "light" ? 11 + dexMod : selectedClass.defense === "unarmored-wis" ? 10 + dexMod + modifier(character.abilities.sezgi) : 10 + dexMod : 10 + dexMod;
+  const defense = selectedClass ? selectedClass.defense === "medium-shield" ? 15 + Math.min(2, dexMod) : selectedClass.defense === "medium" ? 13 + Math.min(2, dexMod) : selectedClass.defense === "light" ? 11 + dexMod : selectedClass.defense === "unarmored-wis" ? 10 + dexMod + modifier(character.abilities.sezgi) : selectedClass.defense === "barbarian" ? Math.max(13 + Math.min(2, dexMod), 10 + dexMod + conMod) : 10 + dexMod : 10 + dexMod;
   const powerMod = selectedClass ? classPowerModifier(selectedClass.id, character.abilities) : 0;
   const powerDc = 8 + prof + powerMod;
   const resourceMax = selectedClass ? classResourceCapacity(selectedClass.id, selectedClass.resourceBase, character.level) : 0;
@@ -163,7 +163,7 @@ const branchAbilities = useMemo(() => {
   function clearCooldowns(types: Cooldown[]) { setRun("cooldowns", Object.fromEntries(Object.entries(activeRuntime.cooldowns).filter(([, type]) => !types.includes(type)))); }
   function rest(long: boolean) {
     if (long) setRuntime({ ...activeRuntime, currentHp: maxHp, tempHp: 0, resource: resourceMax, spellSlots: [...slotsMax], rp: Math.max(2, activeRuntime.rp), deathSuccess: 0, deathFail: 0, cooldowns: {}, itemUses: {}, inCombat: false, round: 1, turn: 1 });
-    else { const nextResource = ["savasci", "dovus-ustasi", "antlasmali"].includes(character.classId) ? resourceMax : ["avci", "ruhban", "yeminli", "ozan", "sekil-degistirici", "cagirici"].includes(character.classId) ? Math.min(resourceMax, activeRuntime.resource + 1) : activeRuntime.resource; const nextItemUses = Object.fromEntries(Object.entries(activeRuntime.itemUses).filter(([id]) => items.find((item) => item.id === id)?.reset !== "short")); setRuntime({ ...activeRuntime, resource: nextResource, itemUses: nextItemUses, cooldowns: Object.fromEntries(Object.entries(activeRuntime.cooldowns).filter(([, type]) => type === "long")) }); }
+    else { const nextResource = ["savasci", "dovus-ustasi", "antlasmali"].includes(character.classId) ? resourceMax : ["avci", "ruhban", "yeminli", "ozan", "sekil-degistirici", "cagirici", "barbar"].includes(character.classId) ? Math.min(resourceMax, activeRuntime.resource + 1) : activeRuntime.resource; const nextItemUses = Object.fromEntries(Object.entries(activeRuntime.itemUses).filter(([id]) => items.find((item) => item.id === id)?.reset !== "short")); setRuntime({ ...activeRuntime, resource: nextResource, itemUses: nextItemUses, cooldowns: Object.fromEntries(Object.entries(activeRuntime.cooldowns).filter(([, type]) => type === "long")) }); }
   }
   function toggleCombat() { setRuntime({ ...activeRuntime, inCombat: !activeRuntime.inCombat, round: 1, turn: 1, cooldowns: Object.fromEntries(Object.entries(activeRuntime.cooldowns).filter(([, type]) => type !== "turn")) }); }
   function endTurn() { setRuntime({ ...activeRuntime, turn: activeRuntime.turn + 1, round: activeRuntime.round + 1, cooldowns: Object.fromEntries(Object.entries(activeRuntime.cooldowns).filter(([, type]) => type !== "turn")) }); }
@@ -217,8 +217,8 @@ const branchAbilities = useMemo(() => {
       const minimum = Math.max(0, tierFromText(action.tier ?? "1") - 1); const slot = nextSlots.findIndex((value, index) => index >= minimum && value > 0);
       if (slot < 0) { setLastUse({ id: `${action.id}-fail-${Date.now()}`, name: action.name, result: "Uygun büyü yuvası yok." }); return; }
       nextSlots[slot] -= 1;
-    } else if (/sınıf kaynağı|efor|momentum|odak|lütuf|yük|ritim|azim|ilham|mühür|vahşet|komuta/.test(text)) {
-      const count = Number(text.match(/(\d+)\s*(?:sınıf kaynağı|efor|momentum|odak|lütuf|yük|ritim|azim|ilham|mühür|vahşet|komuta)/)?.[1] ?? 1);
+    } else if (/sınıf kaynağı|efor|momentum|odak|lütuf|yük|ritim|azim|ilham|mühür|vahşet|komuta|öfke/.test(text)) {
+      const count = Number(text.match(/(\d+)\s*(?:sınıf kaynağı|efor|momentum|odak|lütuf|yük|ritim|azim|ilham|mühür|vahşet|komuta|öfke)/)?.[1] ?? 1);
       if (nextResource < count) { setLastUse({ id: `${action.id}-fail-${Date.now()}`, name: action.name, result: `${activeClass.resource} yetersiz.` }); return; }
       nextResource -= count;
     }

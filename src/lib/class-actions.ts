@@ -38,6 +38,10 @@ export const classActions: ClassActionDefinition[] = [
   { id: "summoner-special-command", classId: "cagirici", name: "Bağlı Emir", effect: "Yoldaşın saldırmadan önce 6 m güvenli hareket eder; isabetinde 1d8 ek hasar verir veya yakındaki müttefike 1d8 + güç modifikatörü geçici CP sağlar.", cost: "1 Komuta", level: 2 },
   { id: "summoner-resummon", classId: "cagirici", name: "Yoldaşı Yeniden Çağır", effect: "Çatışma dışında bir dakikalık ritüelle dağılmış yoldaşını tam CP ile yeniden çağır.", cost: "1 Komuta", level: 1 },
   { id: "summoner-gate-swap", classId: "cagirici", specialization: "Ruh Kapısı", name: "Eşik Geçişi", effect: "Hızlı Aksiyonla 18 m içindeki yoldaşınla yer değiştir.", cost: "1 Komuta", level: 3 },
+  { id: "barbarian-rage", classId: "barbar", name: "Öfkeye Gir", effect: "Hızlı Aksiyonla bir dakika Öfkeye gir: GÜÇ kontrolleri ve kurtarmalarında avantaj, fiziksel hasara direnç ve GÜÇ kullanan yakın saldırı hasarına +2 kazan. Ağır zırhta kullanılamaz.", cost: "1 Öfke", level: 1 },
+  { id: "barbarian-reckless", classId: "barbar", name: "Gözü Kara Saldırı", effect: "Bu tur GÜÇ kullanan ilk yakın saldırını avantajlı yap; sonraki turunun başına kadar sana yapılan saldırılar da avantajlıdır.", cost: "Bedelsiz", level: 2 },
+  { id: "barbarian-frenzy-strike", classId: "barbar", specialization: "Çılgın Savaşçı", name: "Zincir Darbe", effect: "Öfkeliyken Hızlı Aksiyonla bir yakın silah veya silahsız saldırı yap; isabette silah hasarını uygula.", cost: "1 Öfke", level: 3 },
+  { id: "barbarian-totem-call", classId: "barbar", specialization: "Totem Taşıyıcı", name: "Totem Nidası", effect: "Öfkeliyken Ayı, Kurt veya Kartal ruhunu çağır; sonraki turunun başına kadar 3 m içindeki müttefiklere sırasıyla 1d6 geçici CP, ilk saldırıya 1d4 veya 3 m güvenli hareket ver.", cost: "1 Öfke", level: 3 },
 ];
 export function classActionEffect(action: ClassActionDefinition, level: number) {
   let effect = action.effect;
@@ -60,6 +64,10 @@ export function classActionEffect(action: ClassActionDefinition, level: number) 
   if (action.id === "shifter-transform") {
     const die = level >= 17 ? "1d12" : level >= 9 ? "1d10" : "1d8";
     effect = effect.replace("1d8 doğal silah", `${die} doğal silah`);
+  }
+  if (action.id === "barbarian-rage") {
+    const bonus = level >= 17 ? 4 : level >= 9 ? 3 : 2;
+    effect = effect.replace("+2 kazan", `+${bonus} kazan`);
   }
   if (action.id === "summoner-companion-attack") {
     const dice = level >= 17 ? "2d10" : level >= 5 ? "1d8" : "1d6";

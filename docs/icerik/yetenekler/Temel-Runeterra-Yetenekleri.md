@@ -31,7 +31,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Büyücü, Mucit, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Büyücü, Mucit, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Doğal karanlıkta 18 metreye kadar loş ışıktaymış gibi görürsün. Bu görüş renkleri değil, gri tonları ayırt eder.
@@ -55,7 +55,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Ruhban, Avcı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Ruhban, Avcı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bir dakika boyunca 9 metre içindeki belirgin ruh, hayalet veya yoğun duygusal kalıntıların yönünü sezersin.
@@ -67,7 +67,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Ruhban, Büyücü, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Ruhban, Büyücü, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 metre içindeki gördüğün bir yaratığın yüzeydeki baskın hâlini öğrenirsin: korku, öfke, sakinlik, hastalık, büyülü etki veya olağan durum.
@@ -103,7 +103,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Büyücü, Mucit, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Büyücü, Mucit, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** Yok.
 - **Etki:** 36 metre içindeki bildiğin bir yaratığa yalnız onun duyacağı en fazla iki cümle gönderirsin. Hedef isterse turundaki Serbest Etkileşimle kısa cevap verebilir.
@@ -127,7 +127,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Büyücü, Mucit, Avcı, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Mucit, Avcı, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki; 18 metre içinde bir yaratık düşmeye başladığında.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Kendin dâhil uzmanlık bonusun kadar düşen yaratığın inişini yavaşlatırsın. Bir dakika içinde yere ulaşan hedefler düşme hasarı almaz ve ayakta iner.
@@ -139,7 +139,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Büyücü, Mucit, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Büyücü, Mucit, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon; konsantrasyon, en fazla 10 dakika.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Yürüme hızına eşit tırmanma hızı kazanır ve ellerin doluyken sıradan duvarlarda hareket edebilirsin.
@@ -151,7 +151,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Savaşçı, Düzenbaz, Avcı, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Savaşçı, Düzenbaz, Avcı, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 metre güvenli hareket ederek görebildiğin boş bir alana sıçrarsın. Dikey hareketin en fazla 3 metre olabilir.
@@ -175,7 +175,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Büyücü, Avcı, Mucit, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Büyücü, Avcı, Mucit, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 metre İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` soğuk hasarı ver ve hedefin hızını sonraki turunun başına kadar 1,5 metre azalt.
@@ -199,7 +199,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Savaşçı, Büyücü, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Büyücü, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Önündeki 4,5 metrelik konideki yaratıklar GÜÇ kurtarması yapar. Başarısız olan `1d6` enerji hasarı alır ve 3 metre itilir.
@@ -211,7 +211,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Ruhban, Avcı, Mucit, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Ruhban, Avcı, Mucit, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; dokunma.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Hedef `1d8 + yetenek modifikatörü` CP kazanır.
@@ -223,7 +223,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki; sen veya 9 metre içindeki müttefik hasar aldığında.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Gelen hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -247,7 +247,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 18 metre.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Hedef GÜÇ kurtarmasını kaybederse hızı sonraki turunun sonuna kadar 0 olur. Yüzeyden kök, ip, ruh bağı veya mekanik tel yükselir.
@@ -260,7 +260,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Avcı, Savaşçı, Mucit, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Savaşçı, Mucit, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon; konsantrasyon, en fazla bir dakika.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Aynı katı yüzeye temas eden hareketli yaratıkların yerini 9 metre içinde görmeden algılarsın.
@@ -332,7 +332,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Avcı, Büyücü, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Büyücü, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** On dakika.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Kendin ve dokunduğun uzmanlık bonusun kadar istekli yaratık 8 saat su altında nefes alabilir.
@@ -368,7 +368,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Büyücü, Avcı, Mucit, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Büyücü, Avcı, Mucit, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Önündeki 6 metrelik konidekiler DAY kurtarması yapar; başarısızlıkta `3d6` soğuk hasarı alır ve hızları sonraki turunun sonuna kadar yarıya iner. Başarıda yarı hasar alırlar.
@@ -380,7 +380,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Mucit, Büyücü, Avcı, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Mucit, Büyücü, Avcı, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 24 metre; konsantrasyon, en fazla bir dakika.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 3 metre yarıçaplı alanı aşındırıcı yağmurla doldurursun. Alana ilk giren veya turuna orada başlayan yaratık ÇEV kurtarmasını kaybederse `2d6` zehir hasarı alır.
@@ -404,7 +404,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 18 metre; konsantrasyon, en fazla bir dakika.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Hedef GÜÇ veya SEZ kurtarmasını kaybederse Kısıtlanmış olur.
@@ -428,7 +428,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Ruhban, Büyücü, Savaşçı, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Çağırıcı.
+- **Uyumlu sınıflar:** Ruhban, Büyücü, Savaşçı, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Önündeki 6 metrelik konide seçtiğin yaratıklar SEZ kurtarmasını kaybederse sonraki turunun sonuna kadar senden Korkmuş olur.
@@ -440,7 +440,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Büyücü, Mucit, Ruhban, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Mucit, Ruhban, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 9 metre; konsantrasyon, en fazla bir dakika.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** İstekli hedefin hızı 3 metre artar ve tur başına ilk ÇEV kurtarmasına `+1d4` ekler.
@@ -452,7 +452,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Büyücü, Mucit, Ruhban, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Mucit, Ruhban, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 18 metre; konsantrasyon, en fazla bir dakika.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Hedef SEZ kurtarmasını kaybederse hızı yarıya iner ve Tepki kullanamaz.
@@ -464,7 +464,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Ruhban, Mucit, Büyücü, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Ruhban, Mucit, Büyücü, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; dokunma.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Hedefteki Zehirlenmiş, Korkmuş veya Büyülenmiş durumlarından birini bitir; ayrıca sıradan hastalık ya da toksini etkisizleştir.
@@ -476,7 +476,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** II — Usta; asgari seviye 8.
-- **Uyumlu sınıflar:** Ruhban, Büyücü, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Çağırıcı.
+- **Uyumlu sınıflar:** Ruhban, Büyücü, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon; 18 metre; bir dakika.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Boş bir alanda yüzen silah oluştur. Turunda Hızlı Aksiyonla silahı 6 metre hareket ettirip bitişiğindeki hedefe İmza saldırısı yapabilirsin; isabette `2d8 + yetenek modifikatörü` ruh hasarı verir.
@@ -489,7 +489,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** I — Temel; asgari seviye 4.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Avcı, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Avcı, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Uzun mola sonunda hazırlık.
 - **Bedel:** Yetenek etkin olduğu sürece azami sınıf kaynağın 1 azalır.
 - **Etki:** Küçük hayvan, ruh veya aygıt biçimli yoldaş edinirsin. SS'si 12, CP'si `3 + seviyen`, hızı 9 metredir; saldırmaz. Turunda komutsuz hareket eder ve Savunur. Ana Aksiyonla 18 metre içindeyken onun duyularından bir tur yararlanabilirsin.
@@ -503,7 +503,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** III — Kahraman; asgari seviye 12.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Avcı, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Avcı, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; konsantrasyon, en fazla 10 dakika.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 metre içinde doğal ve büyülü karanlıkta görür, görünmez yaratıkların siluetlerini seçer ve gördüğün yanılsamalara karşı İnceleme kontrollerinde avantaj kazanırsın.
@@ -515,7 +515,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** III — Kahraman; asgari seviye 12.
-- **Uyumlu sınıflar:** Büyücü, Mucit, Ruhban, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Mucit, Ruhban, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; dokunma; konsantrasyon, en fazla 10 dakika.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** İstekli hedef 12 metre uçuş hızı kazanır.
@@ -551,7 +551,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** III — Kahraman; asgari seviye 12.
-- **Uyumlu sınıflar:** Büyücü, Avcı, Mucit, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Avcı, Mucit, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 36 metre; konsantrasyon, en fazla bir dakika.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 6 metre yarıçaplı alan zorlu arazi olur. Oluştuğunda ve alanda turuna başlayan yaratık ÇEV kurtarmasını kaybederse `3d8` soğuk hasarı alır.
@@ -587,7 +587,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** III — Kahraman; asgari seviye 12.
-- **Uyumlu sınıflar:** Ruhban, Mucit, Büyücü, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Ruhban, Mucit, Büyücü, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 18 metre.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Uzmanlık bonusun kadar gördüğün yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -623,7 +623,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** III — Kahraman; asgari seviye 12.
-- **Uyumlu sınıflar:** Büyücü, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 18 metre; konsantrasyon, en fazla 10 dakika.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** İstekli hedefi Küçük veya Orta sıradan bir hayvan biçimine sok. Hedef 9 metre hız, seçilen biçime uygun 6 metre yüzme veya tırmanma hızı ve `15 geçici CP` kazanır.
@@ -673,7 +673,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** IV — Efsane; asgari seviye 16.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Savaşçı, Mucit, Yeminli, Ozan, Antlaşmalı, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Savaşçı, Mucit, Yeminli, Ozan, Antlaşmalı, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 36 metre; konsantrasyon, en fazla bir dakika.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 metre yarıçaplı zemin zorlu arazi olur. Alanda turuna başlayan yaratık ÇEV kurtarmasını kaybederse Yere Düşer; korunmasız yapılar her tur `3d10` ezici hasar alır.
@@ -721,7 +721,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** IV — Efsane; asgari seviye 16.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Savaşçı, Yeminli, Ozan, Antlaşmalı, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Savaşçı, Yeminli, Ozan, Antlaşmalı, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon; 18 metre; konsantrasyon, en fazla bir dakika.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 4,5 metre yarıçaplı alanda Kademe I–II büyüsel İmza Yetenekleri ve geçici büyülü etkiler bastırılır. Kademe III–IV kaynak, kullananın İmza DC'sine karşı güç yeteneği kontrolünü kaybederse bastırılır.
@@ -733,7 +733,7 @@ Bu katalog, belirli bir LoL veya TFT şampiyonuna bağlı olmayan; Runeterra'nı
 
 - **Kaynak:** Evrensel Runeterra yeteneği.
 - **Kademe:** IV — Efsane; asgari seviye 16.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon; konsantrasyon, en fazla bir dakika.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 metre uçuş hızı ve yıldırım hasarına direnç kazanırsın. Tur başına ilk isabetin `2d8` yıldırım hasarı ekler.

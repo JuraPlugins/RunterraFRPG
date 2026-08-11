@@ -16,6 +16,7 @@ const classConfig: Record<string, { heading: string; prefix: string; file: strin
   antlasmali: { heading: "Antlaşmalı", prefix: "PACT", file: "Antlasmali-4-20.md", specializations: { "Karanlık Aracı": "DARK", "Zincir Kıran": "BREAKER" } },
   "sekil-degistirici": { heading: "Şekil Değiştirici", prefix: "SHIFTER", file: "Sekil-Degistirici-4-20.md", specializations: { Yabanbiçim: "WILD", "Kadim Kan": "ANCIENT" } },
   cagirici: { heading: "Çağırıcı", prefix: "SUMMONER", file: "Cagirici-4-20.md", specializations: { "Sürü Efendisi": "SWARM", "Ruh Kapısı": "GATE" } },
+  barbar: { heading: "Barbar", prefix: "BARBARIAN", file: "Barbar-4-20.md", specializations: { "Çılgın Savaşçı": "FRENZY", "Totem Taşıyıcı": "TOTEM" } },
 };
 
 function plain(value: string) { return value.replace(/[`*_#|]/g, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").replace(/\s+/g, " ").trim(); }
@@ -36,6 +37,7 @@ const activeFeatureIds = new Set([
   "CLASS-PACT-015", "CLASS-PACT-DARK-010", "CLASS-PACT-DARK-014", "CLASS-PACT-BREAKER-010",
   "CLASS-SHIFTER-015", "CLASS-SHIFTER-WILD-010", "CLASS-SHIFTER-ANCIENT-006", "CLASS-SHIFTER-ANCIENT-018",
   "CLASS-SUMMONER-007", "CLASS-SUMMONER-011", "CLASS-SUMMONER-015", "CLASS-SUMMONER-SWARM-010", "CLASS-SUMMONER-GATE-010", "CLASS-SUMMONER-GATE-018",
+  "CLASS-BARBARIAN-FRENZY-010", "CLASS-BARBARIAN-FRENZY-014", "CLASS-BARBARIAN-TOTEM-010", "CLASS-BARBARIAN-TOTEM-018",
 ]);
 
 function baseFeatures(classId: string, heading: string): ClassFeature[] {
@@ -48,7 +50,7 @@ function baseFeatures(classId: string, heading: string): ClassFeature[] {
   for (const match of section.matchAll(pattern)) {
     const level = Number(match[1]); const name = plain(match[2]); const body = plain(match[3]);
     const isResourceExplanation = classId === "savasci" && level === 1;
-    const usesIndividualActionCards = ["dovus-ustasi", "yeminli", "ozan", "antlasmali", "sekil-degistirici", "cagirici"].includes(classId);
+    const usesIndividualActionCards = ["dovus-ustasi", "yeminli", "ozan", "antlasmali", "sekil-degistirici", "cagirici", "barbar"].includes(classId);
     features.push({ id: `CLASS-${classId.toUpperCase()}-BASE-${level}`, name, effect: body.slice(0, 1500), level, active: level <= 2 && !usesIndividualActionCards && !(classId === "buyucu" && level === 1) && !isResourceExplanation, cooldown: cooldown(body) });
   }
   return features;

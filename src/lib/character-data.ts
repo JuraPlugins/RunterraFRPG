@@ -359,7 +359,12 @@ export const classes = [
     primary: "Zekâ veya Sezgi", resource: "Komuta", resourceBase: "prof+2", specializations: ["Sürü Efendisi", "Ruh Kapısı"],
     armor: "Hafif zırh", defense: "light", equipment: "Hafif zırh; asa veya kısa yay; çağırma odağı; bilgin paketi", accent: "#55a9a0",
   },
-] as const;
+{
+    id: "barbar", name: "Barbar", role: "Öfke, dayanıklılık ve yıkıcı darbeler", hitDie: 12, hpBase: 12, hpPerLevel: 7,
+    saves: ["Güç", "Dayanıklılık"], skills: ["Algı", "Atletizm", "Doğa", "Gözdağı", "Hayatta Kalma", "Hayvan İdaresi"], skillCount: 3,
+    primary: "Güç", resource: "Öfke", resourceBase: "prof", specializations: ["Çılgın Savaşçı", "Totem Taşıyıcı"],
+    armor: "Hafif, orta ve kalkan", defense: "barbarian", equipment: "Post zırh veya zırhsız savunma; büyük balta veya iki el baltası; dört cirit; gezgin paketi", accent: "#b95643",
+  },] as const;
 
 export const mageSlots = [
   [2, 0, 0, 0, 0, 0, 0, 0, 0], [3, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -393,6 +398,7 @@ export function classPowerModifier(classId: string, abilities: Record<AbilityKey
   if (classId === "dovus-ustasi") return Math.max(mods.ceviklik, mods.sezgi);
   if (classId === "yeminli") return Math.max(mods.guc, mods.karizma);
   if (["ozan", "antlasmali"].includes(classId)) return mods.karizma;
+  if (classId === "barbar") return mods.guc;
   return Math.max(mods.guc, mods.ceviklik);
 }
 

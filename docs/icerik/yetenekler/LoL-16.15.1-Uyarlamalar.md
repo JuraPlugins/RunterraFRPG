@@ -22,7 +22,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aatrox Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -35,7 +35,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aatrox Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -48,7 +48,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aatrox W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -61,7 +61,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aatrox E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -74,7 +74,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aatrox R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -89,7 +89,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ahri Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -102,7 +102,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ahri Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` enerji hasarı ekler.
@@ -115,7 +115,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ahri W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -128,7 +128,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ahri E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -141,7 +141,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ahri R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` ruh hasarı ekler.
@@ -169,7 +169,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Akali Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -182,7 +182,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Akali W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 9 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -195,7 +195,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Akali E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` enerji hasarı ekler.
@@ -208,7 +208,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Akali R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -236,7 +236,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Akshan Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -249,7 +249,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Akshan W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 9 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -262,7 +262,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Akshan E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` ateş hasarı verir.
@@ -275,7 +275,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Akshan R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -290,7 +290,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Alistar Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -303,7 +303,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Alistar Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -316,7 +316,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Alistar W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -329,7 +329,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Alistar E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` enerji hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -342,7 +342,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Alistar R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` enerji hasarı ver.
@@ -357,7 +357,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ambessa Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turunda ilk kez bir düşmana isabet ettiğinde 1,5 m güvenli hareket edebilirsin.
@@ -370,7 +370,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ambessa Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -383,7 +383,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ambessa W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -396,7 +396,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ambessa E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -409,7 +409,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ambessa R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -424,7 +424,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Amumu Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -437,7 +437,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Amumu Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -450,7 +450,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Amumu W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -463,7 +463,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Amumu E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -476,7 +476,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Amumu R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -625,7 +625,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aphelios Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -638,7 +638,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aphelios Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` ateş hasarı ekler.
@@ -651,7 +651,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aphelios W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -664,7 +664,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aphelios E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -677,7 +677,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aphelios R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -692,7 +692,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ashe Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Kritik isabet ettiğinde hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -705,7 +705,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ashe Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur bir silahla Saldır aksiyonu kullandığında tek saldırı yerine aynı hedefe iki saldırı atışı yap. Her isabet `1d6 + yetenek modifikatörü` fiziksel hasar verir; bu saldırılara normal silah hasarı eklenmez.
@@ -718,7 +718,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ashe W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -731,7 +731,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ashe E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Keşif.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 27 m içindeki bir noktadan 9 m yarıçaplı alanı bir tur boyunca gözle; saklı yaratıklar İmza DC'ne karşı ÇEV kurtarmasını kaybederse açığa çıkar.
@@ -744,7 +744,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ashe R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` soğuk hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -826,7 +826,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aurora Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -839,7 +839,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aurora Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -852,7 +852,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aurora W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 9 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -865,7 +865,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aurora E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ruh hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -878,7 +878,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Aurora R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -893,7 +893,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Azir Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -906,7 +906,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Azir Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` enerji hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -919,7 +919,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Azir W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -932,7 +932,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Azir E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -945,7 +945,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Azir R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -1027,7 +1027,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Bel'Veth Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -1040,7 +1040,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Bel'Veth Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -1053,7 +1053,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Bel'Veth W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -1066,7 +1066,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Bel'Veth E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `2d6` fiziksel, başarıda yarı hasar alır.
@@ -1079,7 +1079,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Bel'Veth R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `3d8 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -1094,7 +1094,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Blitzcrank Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -1107,7 +1107,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Blitzcrank Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` ateş hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -1120,7 +1120,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Blitzcrank W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -1133,7 +1133,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Blitzcrank E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -1146,7 +1146,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Blitzcrank R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -1228,7 +1228,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Braum Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk silah isabetinde hedefin hızını sonraki turunun başına kadar 1,5 m azaltabilirsin.
@@ -1241,7 +1241,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Braum Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -1254,7 +1254,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Braum W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -1267,7 +1267,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Braum E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -1280,7 +1280,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Braum R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -1295,7 +1295,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Briar Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -1308,7 +1308,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Briar Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -1321,7 +1321,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Briar W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -1334,7 +1334,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Briar E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -1347,7 +1347,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Briar R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -1362,7 +1362,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Caitlyn Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -1375,7 +1375,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Caitlyn Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -1388,7 +1388,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Caitlyn W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -1401,7 +1401,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Caitlyn E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -1414,7 +1414,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Caitlyn R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -1429,7 +1429,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Camille Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -1442,7 +1442,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Camille Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -1455,7 +1455,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Camille W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -1468,7 +1468,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Camille E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -1481,7 +1481,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Camille R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` enerji hasarı ver.
@@ -1563,7 +1563,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Cho'Gath Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -1576,7 +1576,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Cho'Gath Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -1589,7 +1589,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Cho'Gath W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` enerji hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -1602,7 +1602,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Cho'Gath E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ruh hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -1615,7 +1615,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Cho'Gath R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -1630,7 +1630,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Corki Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -1643,7 +1643,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Corki Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `1d6` enerji, başarıda yarı hasar alır.
@@ -1656,7 +1656,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Corki W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -1669,7 +1669,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Corki E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -1682,7 +1682,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Corki R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -1697,7 +1697,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Darius Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -1710,7 +1710,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Darius Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -1723,7 +1723,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Darius W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -1736,7 +1736,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Darius E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -1749,7 +1749,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Darius R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ruh hasarı ver.
@@ -1764,7 +1764,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Diana Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -1777,7 +1777,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Diana Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 6 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -1790,7 +1790,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Diana W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -1803,7 +1803,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Diana E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` enerji hasarı ekler.
@@ -1816,7 +1816,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Diana R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` enerji hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -1831,7 +1831,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Dr. Mundo Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -1844,7 +1844,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Dr. Mundo Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -1857,7 +1857,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Dr. Mundo W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -1870,7 +1870,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Dr. Mundo E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -1883,7 +1883,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Dr. Mundo R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -1898,7 +1898,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Draven Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -1911,7 +1911,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Draven Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -1924,7 +1924,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Draven W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -1937,7 +1937,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Draven E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -1950,7 +1950,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Draven R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ruh hasarı ver.
@@ -1965,7 +1965,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ekko Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -1978,7 +1978,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ekko Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -1991,7 +1991,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ekko W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -2004,7 +2004,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ekko E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -2032,7 +2032,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Elise Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -2045,7 +2045,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Elise Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` zehir hasarı ekler.
@@ -2058,7 +2058,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Elise W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` zehir hasarı verir.
@@ -2084,7 +2084,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Elise R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2099,7 +2099,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Evelynn Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -2112,7 +2112,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Evelynn Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2125,7 +2125,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Evelynn W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2138,7 +2138,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Evelynn E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2151,7 +2151,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Evelynn R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2166,7 +2166,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ezreal Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -2179,7 +2179,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ezreal Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -2192,7 +2192,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ezreal W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2205,7 +2205,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ezreal E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` ateş hasarı ekler.
@@ -2218,7 +2218,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ezreal R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` enerji hasarı ver.
@@ -2300,7 +2300,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fiora Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -2313,7 +2313,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fiora Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -2326,7 +2326,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fiora W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -2339,7 +2339,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fiora E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -2352,7 +2352,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fiora R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -2367,7 +2367,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fizz Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -2380,7 +2380,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fizz Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` enerji hasarı ekler.
@@ -2393,7 +2393,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fizz W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -2406,7 +2406,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fizz E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -2419,7 +2419,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Fizz R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` enerji hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -2434,7 +2434,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Galio Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -2447,7 +2447,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Galio Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2460,7 +2460,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Galio W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -2473,7 +2473,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Galio E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -2486,7 +2486,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Galio R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -2501,7 +2501,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gangplank Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar ateş hasarı ekleyebilirsin.
@@ -2514,7 +2514,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gangplank Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -2527,7 +2527,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gangplank W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -2540,7 +2540,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gangplank E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -2553,7 +2553,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gangplank R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `3d8` fiziksel hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -2568,7 +2568,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Garen Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -2581,7 +2581,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Garen Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -2594,7 +2594,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Garen W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -2607,7 +2607,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Garen E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2620,7 +2620,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Garen R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2635,7 +2635,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gnar Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -2648,7 +2648,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gnar Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -2661,7 +2661,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gnar W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -2674,7 +2674,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gnar E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `2d6` fiziksel, başarıda yarı hasar alır.
@@ -2687,7 +2687,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gnar R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -2702,7 +2702,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gragas Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -2715,7 +2715,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gragas Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -2728,7 +2728,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gragas W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -2741,7 +2741,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gragas E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -2754,7 +2754,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gragas R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -2769,7 +2769,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Graves Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar ateş hasarı ekleyebilirsin.
@@ -2782,7 +2782,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Graves Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -2808,7 +2808,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Graves E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -2821,7 +2821,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Graves R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -2836,7 +2836,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gwen Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -2849,7 +2849,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gwen Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -2862,7 +2862,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gwen W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2875,7 +2875,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gwen E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` enerji hasarı ekler.
@@ -2888,7 +2888,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Gwen R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` enerji hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -2903,7 +2903,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Hecarim Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -2916,7 +2916,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Hecarim Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -2929,7 +2929,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Hecarim W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -2942,7 +2942,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Hecarim E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -2955,7 +2955,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Hecarim R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ruh hasarı ver.
@@ -3104,7 +3104,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Illaoi Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -3117,7 +3117,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Illaoi Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -3130,7 +3130,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Illaoi W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -3143,7 +3143,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Illaoi E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Keşif.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 27 m içindeki bir noktadan 9 m yarıçaplı alanı bir tur boyunca gözle; saklı yaratıklar İmza DC'ne karşı ÇEV kurtarmasını kaybederse açığa çıkar.
@@ -3156,7 +3156,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Illaoi R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Keşif.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 27 m içindeki bir noktadan 12 m yarıçaplı alanı bir tur boyunca gözle; saklı yaratıklar İmza DC'ne karşı ÇEV kurtarmasını kaybederse açığa çıkar.
@@ -3171,7 +3171,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Irelia Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -3184,7 +3184,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Irelia Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -3197,7 +3197,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Irelia W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -3210,7 +3210,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Irelia E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` ruh hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -3223,7 +3223,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Irelia R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `3d8` fiziksel hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -3372,7 +3372,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jarvan IV Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -3385,7 +3385,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jarvan IV Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -3398,7 +3398,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jarvan IV W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -3411,7 +3411,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jarvan IV E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` enerji hasarı verir.
@@ -3424,7 +3424,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jarvan IV R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -3439,7 +3439,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jax Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -3452,7 +3452,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jax Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -3465,7 +3465,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jax W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -3478,7 +3478,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jax E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -3491,7 +3491,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jax R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -3506,7 +3506,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jayce Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -3519,7 +3519,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jayce Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` ateş hasarı ekler.
@@ -3532,7 +3532,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jayce W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` yıldırım hasarı verir.
@@ -3545,7 +3545,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jayce E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` ateş hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -3558,7 +3558,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jayce R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -3573,7 +3573,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jhin Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar soğuk hasarı ekleyebilirsin.
@@ -3586,7 +3586,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jhin Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -3599,7 +3599,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jhin W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -3612,7 +3612,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jhin E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 9 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -3625,7 +3625,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jhin R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -3640,7 +3640,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jinx Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -3653,7 +3653,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jinx Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `1d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -3666,7 +3666,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jinx W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ateş hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -3679,7 +3679,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jinx E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` ateş hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -3692,7 +3692,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Jinx R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -3707,7 +3707,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kai'Sa Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -3720,7 +3720,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kai'Sa Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -3733,7 +3733,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kai'Sa W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `2d6` fiziksel hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -3746,7 +3746,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kai'Sa E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 9 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -3759,7 +3759,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kai'Sa R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` ruh hasarı ekler.
@@ -3774,7 +3774,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kalista Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turunda ilk kez bir düşmana isabet ettiğinde 1,5 m güvenli hareket edebilirsin.
@@ -3787,7 +3787,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kalista Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -3800,7 +3800,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kalista W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -3813,7 +3813,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kalista E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -3826,7 +3826,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kalista R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -3975,7 +3975,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kassadin Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -3988,7 +3988,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kassadin Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -4001,7 +4001,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kassadin W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -4014,7 +4014,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kassadin E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` enerji hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -4027,7 +4027,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kassadin R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -4042,7 +4042,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Katarina Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -4055,7 +4055,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Katarina Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -4068,7 +4068,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Katarina W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -4081,7 +4081,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Katarina E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -4094,7 +4094,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Katarina R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ruh hasarı ver.
@@ -4109,7 +4109,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayle Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -4122,7 +4122,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayle Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -4135,7 +4135,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayle W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -4148,7 +4148,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayle E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -4161,7 +4161,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayle R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `3d8` fiziksel, başarıda yarı hasar alır.
@@ -4176,7 +4176,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayn Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -4189,7 +4189,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayn Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` ruh hasarı ekler.
@@ -4202,7 +4202,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayn W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -4215,7 +4215,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayn E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -4228,7 +4228,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kayn R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -4323,7 +4323,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kha'Zix Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -4336,7 +4336,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kha'Zix W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -4349,7 +4349,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kha'Zix E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -4362,7 +4362,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kha'Zix R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** En fazla 12 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -4390,7 +4390,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kindred Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -4403,7 +4403,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kindred W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -4416,7 +4416,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kindred E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -4429,7 +4429,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kindred R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -4444,7 +4444,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kled Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -4457,7 +4457,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kled Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -4470,7 +4470,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kled W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -4483,7 +4483,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kled E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -4496,7 +4496,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kled R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -4511,7 +4511,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kog'Maw Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -4524,7 +4524,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kog'Maw Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -4537,7 +4537,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kog'Maw W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -4550,7 +4550,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kog'Maw E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -4563,7 +4563,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Kog'Maw R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` enerji hasarı ekler.
@@ -4578,7 +4578,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, K'Sante Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Bir yaratığa ilk isabetinde onu sonraki turunun sonuna kadar işaretleyebilirsin; işaretliyken onu bulma kontrollerin avantajlıdır.
@@ -4591,7 +4591,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, K'Sante Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -4604,7 +4604,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, K'Sante W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -4617,7 +4617,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, K'Sante E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -4630,7 +4630,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, K'Sante R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -4658,7 +4658,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, LeBlanc Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `1d6` ruh hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -4671,7 +4671,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, LeBlanc W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -4684,7 +4684,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, LeBlanc E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -4697,7 +4697,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, LeBlanc R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -4712,7 +4712,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lee Sin Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -4725,7 +4725,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lee Sin Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -4738,7 +4738,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lee Sin W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -4751,7 +4751,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lee Sin E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -4764,7 +4764,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lee Sin R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -4779,7 +4779,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Leona Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -4792,7 +4792,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Leona Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -4805,7 +4805,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Leona W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -4818,7 +4818,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Leona E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` enerji hasarı ekler.
@@ -4831,7 +4831,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Leona R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` enerji hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -4846,7 +4846,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lillia Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -4859,7 +4859,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lillia Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -4872,7 +4872,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lillia W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -4885,7 +4885,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lillia E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -4898,7 +4898,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lillia R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -4980,7 +4980,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Locke Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -4993,7 +4993,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Locke Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `1d6` ruh hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -5006,7 +5006,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Locke W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -5019,7 +5019,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Locke E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -5032,7 +5032,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Locke R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -5047,7 +5047,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lucian Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -5060,7 +5060,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lucian Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -5073,7 +5073,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lucian W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `2d6` ateş hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -5086,7 +5086,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lucian E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -5099,7 +5099,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Lucian R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -5248,7 +5248,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Malphite Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -5261,7 +5261,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Malphite Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -5274,7 +5274,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Malphite W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -5287,7 +5287,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Malphite E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -5300,7 +5300,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Malphite R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -5382,7 +5382,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Maokai Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -5395,7 +5395,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Maokai Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` enerji hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -5408,7 +5408,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Maokai W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -5421,7 +5421,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Maokai E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -5434,7 +5434,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Maokai R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Keşif.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 27 m içindeki bir noktadan 12 m yarıçaplı alanı bir tur boyunca gözle; saklı yaratıklar İmza DC'ne karşı ÇEV kurtarmasını kaybederse açığa çıkar.
@@ -5449,7 +5449,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Master Yi Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -5462,7 +5462,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Master Yi Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -5475,7 +5475,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Master Yi W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -5488,7 +5488,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Master Yi E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -5501,7 +5501,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Master Yi R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `3d8 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -5650,7 +5650,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Miss Fortune Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -5663,7 +5663,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Miss Fortune Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Keşif.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 27 m içindeki bir noktadan 6 m yarıçaplı alanı bir tur boyunca gözle; saklı yaratıklar İmza DC'ne karşı ÇEV kurtarmasını kaybederse açığa çıkar.
@@ -5676,7 +5676,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Miss Fortune W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -5689,7 +5689,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Miss Fortune E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -5702,7 +5702,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Miss Fortune R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -5717,7 +5717,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Mordekaiser Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar ruh hasarı ekleyebilirsin.
@@ -5730,7 +5730,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Mordekaiser Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -5743,7 +5743,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Mordekaiser W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -5756,7 +5756,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Mordekaiser E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -5769,7 +5769,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Mordekaiser R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ruh hasarı ver.
@@ -5851,7 +5851,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Naafiri Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -5864,7 +5864,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Naafiri Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -5877,7 +5877,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Naafiri W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -5890,7 +5890,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Naafiri E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -5903,7 +5903,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Naafiri R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -5985,7 +5985,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nasus Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar ruh hasarı ekleyebilirsin.
@@ -5998,7 +5998,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nasus Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -6011,7 +6011,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nasus W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -6024,7 +6024,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nasus E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -6037,7 +6037,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nasus R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -6052,7 +6052,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nautilus Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk silah isabetinde hedefin hızını sonraki turunun başına kadar 1,5 m azaltabilirsin.
@@ -6065,7 +6065,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nautilus Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -6078,7 +6078,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nautilus W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -6091,7 +6091,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nautilus E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -6104,7 +6104,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nautilus R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -6186,7 +6186,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nidalee Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turunda ilk kez bir düşmana isabet ettiğinde 1,5 m güvenli hareket edebilirsin.
@@ -6199,7 +6199,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nidalee Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -6212,7 +6212,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nidalee W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -6238,7 +6238,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nidalee R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -6253,7 +6253,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nilah Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -6266,7 +6266,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nilah Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -6279,7 +6279,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nilah W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -6292,7 +6292,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nilah E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -6305,7 +6305,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nilah R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -6320,7 +6320,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nocturne Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -6333,7 +6333,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nocturne Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -6346,7 +6346,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nocturne W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` ruh hasarı verir.
@@ -6359,7 +6359,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nocturne E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` psişik hasarı ver.
@@ -6372,7 +6372,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nocturne R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -6387,7 +6387,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nunu ve Willump Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -6400,7 +6400,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nunu ve Willump Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -6413,7 +6413,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nunu ve Willump W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -6426,7 +6426,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nunu ve Willump E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -6439,7 +6439,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Nunu ve Willump R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -6454,7 +6454,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Olaf Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -6467,7 +6467,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Olaf Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -6480,7 +6480,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Olaf W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -6493,7 +6493,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Olaf E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -6506,7 +6506,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Olaf R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -6588,7 +6588,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ornn Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -6601,7 +6601,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ornn Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -6614,7 +6614,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ornn W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -6627,7 +6627,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ornn E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -6640,7 +6640,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Ornn R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -6655,7 +6655,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pantheon Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -6668,7 +6668,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pantheon Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -6681,7 +6681,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pantheon W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -6694,7 +6694,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pantheon E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -6707,7 +6707,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pantheon R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -6722,7 +6722,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Poppy Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -6735,7 +6735,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Poppy Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -6748,7 +6748,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Poppy W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -6761,7 +6761,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Poppy E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -6774,7 +6774,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Poppy R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -6789,7 +6789,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pyke Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -6802,7 +6802,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pyke Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -6815,7 +6815,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pyke W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 9 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -6828,7 +6828,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pyke E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` ruh hasarı ekler.
@@ -6841,7 +6841,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Pyke R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -6856,7 +6856,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Qiyana Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -6869,7 +6869,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Qiyana Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -6882,7 +6882,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Qiyana W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -6895,7 +6895,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Qiyana E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -6908,7 +6908,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Qiyana R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -6936,7 +6936,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Quinn Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `1d6` fiziksel hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -6949,7 +6949,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Quinn W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -6962,7 +6962,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Quinn E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -6975,7 +6975,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Quinn R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `3d8` fiziksel hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -7057,7 +7057,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rammus Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -7070,7 +7070,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rammus Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -7083,7 +7083,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rammus W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -7096,7 +7096,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rammus E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -7109,7 +7109,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rammus R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` enerji hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -7124,7 +7124,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rek'Sai Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -7137,7 +7137,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rek'Sai Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -7150,7 +7150,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rek'Sai W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -7163,7 +7163,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rek'Sai E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -7176,7 +7176,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rek'Sai R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `3d8` fiziksel hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -7191,7 +7191,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rell Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -7204,7 +7204,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rell Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -7217,7 +7217,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rell W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -7230,7 +7230,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rell E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -7243,7 +7243,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rell R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` enerji hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -7325,7 +7325,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Renekton Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -7338,7 +7338,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Renekton Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -7351,7 +7351,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Renekton W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -7364,7 +7364,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Renekton E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -7377,7 +7377,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Renekton R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -7392,7 +7392,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rengar Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Saklan kontrolünü başardığında sonraki turunun başına kadar hızın 1,5 m artar.
@@ -7405,7 +7405,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rengar Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `1d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -7418,7 +7418,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rengar W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -7431,7 +7431,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rengar E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -7444,7 +7444,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rengar R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -7459,7 +7459,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Riven Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -7472,7 +7472,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Riven Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -7485,7 +7485,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Riven W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -7498,7 +7498,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Riven E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -7511,7 +7511,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Riven R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` enerji hasarı ver.
@@ -7526,7 +7526,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rumble Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -7539,7 +7539,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rumble Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `1d6` ateş, başarıda yarı hasar alır.
@@ -7552,7 +7552,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rumble W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -7565,7 +7565,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rumble E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -7578,7 +7578,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Rumble R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -7660,7 +7660,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Samira Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turunda ilk kez bir düşmana isabet ettiğinde 1,5 m güvenli hareket edebilirsin.
@@ -7673,7 +7673,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Samira Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -7686,7 +7686,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Samira W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -7699,7 +7699,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Samira E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -7712,7 +7712,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Samira R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `3d8 + yetenek modifikatörü` ateş hasarı verir.
@@ -7727,7 +7727,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sejuani Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -7740,7 +7740,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sejuani Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -7753,7 +7753,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sejuani W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` soğuk hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -7766,7 +7766,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sejuani E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` soğuk hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -7779,7 +7779,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sejuani R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` soğuk hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -7794,7 +7794,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Senna Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar ateş hasarı ekleyebilirsin.
@@ -7807,7 +7807,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Senna Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -7820,7 +7820,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Senna W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -7833,7 +7833,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Senna E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 9 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -7846,7 +7846,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Senna R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -7928,7 +7928,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sett Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -7941,7 +7941,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sett Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -7954,7 +7954,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sett W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -7967,7 +7967,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sett E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -7980,7 +7980,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sett R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -7995,7 +7995,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shaco Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar zehir hasarı ekleyebilirsin.
@@ -8008,7 +8008,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shaco Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -8021,7 +8021,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shaco W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -8034,7 +8034,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shaco E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` zehir hasarı ekler.
@@ -8062,7 +8062,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shen Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -8075,7 +8075,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shen Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -8088,7 +8088,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shen W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `2d6` ruh, başarıda yarı hasar alır.
@@ -8101,7 +8101,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shen E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` ruh hasarı ekler.
@@ -8114,7 +8114,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shen R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -8129,7 +8129,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shyvana Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -8142,7 +8142,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shyvana Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `1d6` fiziksel, başarıda yarı hasar alır.
@@ -8155,7 +8155,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shyvana W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -8168,7 +8168,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shyvana E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ateş hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -8181,7 +8181,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Shyvana R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -8196,7 +8196,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Singed Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar zehir hasarı ekleyebilirsin.
@@ -8209,7 +8209,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Singed Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` zehir hasarı ver.
@@ -8222,7 +8222,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Singed W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -8235,7 +8235,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Singed E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -8248,7 +8248,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Singed R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` zehir hasarı ver.
@@ -8263,7 +8263,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sion Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -8276,7 +8276,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sion Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -8289,7 +8289,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sion W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -8302,7 +8302,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sion E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -8315,7 +8315,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sion R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -8330,7 +8330,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sivir Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -8343,7 +8343,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sivir Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -8356,7 +8356,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sivir W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -8369,7 +8369,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sivir E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -8382,7 +8382,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sivir R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -8397,7 +8397,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Skarner Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -8410,7 +8410,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Skarner Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -8423,7 +8423,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Skarner W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -8436,7 +8436,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Skarner E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -8449,7 +8449,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Skarner R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -8464,7 +8464,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Smolder Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -8477,7 +8477,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Smolder Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İşaret.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefi 1 dakika işaretle. Tur başına ilk isabetin `1d6` ateş hasarı ekler ve hedefi izleme kontrollerin avantajlıdır.
@@ -8490,7 +8490,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Smolder W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ateş hasarı ver.
@@ -8503,7 +8503,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Smolder E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -8516,7 +8516,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Smolder R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -8732,7 +8732,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sylas Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -8745,7 +8745,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sylas Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -8771,7 +8771,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sylas E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -8784,7 +8784,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Sylas R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -8866,7 +8866,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tahm Kench Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -8879,7 +8879,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tahm Kench Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -8892,7 +8892,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tahm Kench W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -8905,7 +8905,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tahm Kench E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -8918,7 +8918,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tahm Kench R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` enerji hasarı ver.
@@ -9000,7 +9000,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Talon Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -9013,7 +9013,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Talon Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -9026,7 +9026,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Talon W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -9039,7 +9039,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Talon E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9052,7 +9052,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Talon R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** En fazla 12 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -9067,7 +9067,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Taric Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -9080,7 +9080,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Taric Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -9093,7 +9093,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Taric W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -9106,7 +9106,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Taric E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` enerji hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -9119,7 +9119,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Taric R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` enerji hasarı ver.
@@ -9134,7 +9134,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Teemo Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Saklan kontrolünü başardığında sonraki turunun başına kadar hızın 1,5 m artar.
@@ -9147,7 +9147,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Teemo Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Keşif.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 27 m içindeki bir noktadan 6 m yarıçaplı alanı bir tur boyunca gözle; saklı yaratıklar İmza DC'ne karşı ÇEV kurtarmasını kaybederse açığa çıkar.
@@ -9160,7 +9160,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Teemo W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9173,7 +9173,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Teemo E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` zehir hasarı ver.
@@ -9186,7 +9186,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Teemo R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` zehir hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -9201,7 +9201,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Thresh Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -9214,7 +9214,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Thresh Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` ruh hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -9227,7 +9227,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Thresh W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` ruh hasarı ekler.
@@ -9240,7 +9240,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Thresh E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9253,7 +9253,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Thresh R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -9268,7 +9268,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tristana Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -9281,7 +9281,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tristana Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `1d6 + yetenek modifikatörü` ateş hasarı verir.
@@ -9294,7 +9294,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tristana W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `2d6` ateş, başarıda yarı hasar alır.
@@ -9307,7 +9307,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tristana E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `2d6` fiziksel, başarıda yarı hasar alır.
@@ -9320,7 +9320,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tristana R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` ateş hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -9335,7 +9335,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Trundle Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -9348,7 +9348,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Trundle Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9361,7 +9361,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Trundle W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -9374,7 +9374,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Trundle E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` soğuk hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -9387,7 +9387,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Trundle R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -9402,7 +9402,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tryndamere Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -9415,7 +9415,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tryndamere Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -9428,7 +9428,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tryndamere W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `2d6` fiziksel, başarıda yarı hasar alır.
@@ -9441,7 +9441,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tryndamere E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9454,7 +9454,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Tryndamere R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ruh hasarı ver.
@@ -9469,7 +9469,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twisted Fate Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -9482,7 +9482,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twisted Fate Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -9495,7 +9495,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twisted Fate W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9508,7 +9508,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twisted Fate E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -9521,7 +9521,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twisted Fate R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9536,7 +9536,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twitch Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar zehir hasarı ekleyebilirsin.
@@ -9549,7 +9549,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twitch Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 6 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -9562,7 +9562,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twitch W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` zehir hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -9575,7 +9575,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twitch E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` zehir hasarı ver.
@@ -9588,7 +9588,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Twitch R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` ateş hasarı ver.
@@ -9603,7 +9603,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Udyr Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -9616,7 +9616,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Udyr Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `1d6 + yetenek modifikatörü` yıldırım hasarı verir.
@@ -9629,7 +9629,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Udyr W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -9642,7 +9642,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Udyr E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -9655,7 +9655,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Udyr R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` soğuk hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -9670,7 +9670,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Urgot Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar ateş hasarı ekleyebilirsin.
@@ -9683,7 +9683,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Urgot Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -9696,7 +9696,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Urgot W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9709,7 +9709,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Urgot E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -9722,7 +9722,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Urgot R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` zehir hasarı ver.
@@ -9737,7 +9737,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Varus Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -9750,7 +9750,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Varus Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9763,7 +9763,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Varus W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -9776,7 +9776,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Varus E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -9789,7 +9789,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Varus R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Büyücü, Ruhban, Mucit, Avcı, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9804,7 +9804,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vayne Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -9817,7 +9817,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vayne Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -9830,7 +9830,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vayne W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` zehir hasarı verir.
@@ -9843,7 +9843,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vayne E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -9856,7 +9856,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vayne R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** En fazla 12 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -10072,7 +10072,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vi Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -10085,7 +10085,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vi Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -10098,7 +10098,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vi W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -10111,7 +10111,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vi E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -10124,7 +10124,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vi R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -10139,7 +10139,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Viego Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -10152,7 +10152,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Viego Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -10165,7 +10165,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Viego W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -10178,7 +10178,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Viego E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Gizlilik.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** En fazla 9 m hareket et ve sonraki turunun başına kadar veya saldırana dek Görünmez ol.
@@ -10191,7 +10191,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Viego R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -10273,7 +10273,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vladimir Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -10286,7 +10286,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vladimir Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -10299,7 +10299,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vladimir W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -10312,7 +10312,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vladimir E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir noktada 3 m yarıçap oluştur. Alandakiler ÇEV kurtarması yapar; başarısızlıkta `2d6` fiziksel, başarıda yarı hasar alır.
@@ -10325,7 +10325,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Vladimir R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Büyücü, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -10340,7 +10340,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Volibear Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Aynı hedefe art arda iki tur isabet edersen ikinci turun ilk isabetine uzmanlık bonusun kadar fiziksel hasar ekle.
@@ -10353,7 +10353,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Volibear Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` yıldırım hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -10366,7 +10366,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Volibear W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `2d8 + yetenek modifikatörü` CP kazanır.
@@ -10379,7 +10379,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Volibear E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -10392,7 +10392,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Volibear R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -10407,7 +10407,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Warwick Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -10420,7 +10420,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Warwick Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -10433,7 +10433,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Warwick W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -10446,7 +10446,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Warwick E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -10459,7 +10459,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Warwick R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -10474,7 +10474,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Wukong Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -10487,7 +10487,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Wukong Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `1d8 + yetenek modifikatörü` azalt.
@@ -10500,7 +10500,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Wukong W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -10513,7 +10513,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Wukong E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -10526,7 +10526,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Wukong R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -10541,7 +10541,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xayah Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -10554,7 +10554,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xayah Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -10567,7 +10567,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xayah W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -10580,7 +10580,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xayah E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -10593,7 +10593,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xayah R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` fiziksel hasarı ekler.
@@ -10675,7 +10675,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xin Zhao Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -10688,7 +10688,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xin Zhao Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `1d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -10701,7 +10701,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xin Zhao W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -10714,7 +10714,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xin Zhao E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `2d6 + yetenek modifikatörü` fiziksel hasarı verir.
@@ -10727,7 +10727,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Xin Zhao R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -10742,7 +10742,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yasuo Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** İnisiyatif attığında `uzmanlık bonusu + yetenek modifikatörü` kadar geçici CP kazan.
@@ -10755,7 +10755,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yasuo Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` fiziksel hasarı ekler.
@@ -10768,7 +10768,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yasuo W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -10781,7 +10781,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yasuo E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` enerji hasarı ekler.
@@ -10794,7 +10794,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yasuo R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `3d8 + yetenek modifikatörü` azalt.
@@ -10809,7 +10809,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yone Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -10822,7 +10822,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yone Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 6 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `1d6` ruh hasarı ekler.
@@ -10835,7 +10835,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yone W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -10848,7 +10848,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yone E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -10861,7 +10861,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yone R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -10876,7 +10876,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yorick Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Alan Hasarı.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar ruh hasarı ekleyebilirsin.
@@ -10889,7 +10889,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yorick Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -10902,7 +10902,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yorick W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -10915,7 +10915,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yorick E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -10928,7 +10928,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yorick R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -10943,7 +10943,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yunara Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -10956,7 +10956,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yunara Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Seri Saldırı.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Bu tur Saldır aksiyonunda tek saldırı yerine aynı hedefe iki İmza saldırısı yap; her isabet `1d6 + yetenek modifikatörü` ruh hasarı verir.
@@ -10969,7 +10969,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yunara W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ateş hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -10982,7 +10982,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yunara E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Savunma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Ruhban, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Tepki.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** Sen veya 9 m içindeki bir müttefik hasar aldığında hasarı `2d8 + yetenek modifikatörü` azalt.
@@ -10995,7 +10995,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Yunara R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -11077,7 +11077,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zaahen Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar fiziksel hasarı ekleyebilirsin.
@@ -11090,7 +11090,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zaahen Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m içindeki bir yaratık `1d8 + yetenek modifikatörü` CP kazanır.
@@ -11103,7 +11103,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zaahen W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki hedef GÜÇ veya ÇEV kurtarması yapar; başarısızsa `2d6` fiziksel hasarı alır ve hızı sonraki turunun sonuna kadar 0 olur.
@@ -11116,7 +11116,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zaahen E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -11129,7 +11129,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zaahen R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Düzenbaz, Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 9 m içindeki bir yaratık `3d8 + yetenek modifikatörü` CP kazanır.
@@ -11144,7 +11144,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zac Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** İyileştirme.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Mucit, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Tur başına bir kez bir düşmana hasar verdikten veya bir müttefiki etkiledikten sonra 1 geçici CP kazan.
@@ -11157,7 +11157,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zac Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -11170,7 +11170,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zac W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` enerji hasarı ver.
@@ -11183,7 +11183,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zac E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -11196,7 +11196,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zac R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Kontrol.
-- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Savaşçı, Avcı, Ruhban, Dövüş Ustası, Yeminli, Antlaşmalı, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki hedef DAY kurtarması yapar; başarısızsa `3d8` fiziksel hasarı alır ve sonraki turunun sonuna kadar Sersemlemiş olur. Başarıda yarı hasar alır ve Sersemlemez.
@@ -11211,7 +11211,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zed Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -11224,7 +11224,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zed Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -11237,7 +11237,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zed W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` ruh hasarı ekler.
@@ -11250,7 +11250,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zed E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` ruh hasarı ver.
@@ -11263,7 +11263,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zed R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı.
+- **Uyumlu sınıflar:** Düzenbaz, Avcı, Savaşçı, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Çağırıcı, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 12 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `3d8` ruh hasarı ekler.
@@ -11278,7 +11278,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zeri Pasif.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Pasif Güçlenme.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Pasif.
 - **Bedel:** Yok.
 - **Etki:** Turundaki ilk isabetine uzmanlık bonusun kadar enerji hasarı ekleyebilirsin.
@@ -11291,7 +11291,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zeri Q.
 - **Kademe:** I — Temel; asgari seviye 4.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `2d6 + yetenek modifikatörü` fiziksel hasarı ver.
@@ -11304,7 +11304,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zeri W.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Yavaşlatma.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Savaşçı, Mucit, Dövüş Ustası, Yeminli, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 18 m İmza saldırısı yap; isabette `3d6 + yetenek modifikatörü` yıldırım hasarı ver ve hedefin hızını sonraki turunun sonuna kadar 3 m azalt.
@@ -11317,7 +11317,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zeri E.
 - **Kademe:** II — Usta; asgari seviye 8.
 - **Tema:** Hareket.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Ozan, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Hızlı Aksiyon.
 - **Bedel:** 1 sınıf kaynağı.
 - **Etki:** 9 m güvenli hareket et. Bu hareket sonunda yapacağın ilk isabet `2d6` fiziksel hasarı ekler.
@@ -11330,7 +11330,7 @@ Kullanım, kademe ve kaynak kuralları için [İmza Yetenekleri Kataloğu](../Ye
 - **Kaynak:** League of Legends 16.15.1, Zeri R.
 - **Kademe:** III — Kahraman; asgari seviye 12.
 - **Tema:** Doğrudan Hasar.
-- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici.
+- **Uyumlu sınıflar:** Avcı, Düzenbaz, Mucit, Dövüş Ustası, Şekil Değiştirici, Barbar.
 - **Aksiyon:** Ana Aksiyon.
 - **Bedel:** 2 sınıf kaynağı; uzun mola başına bir kez.
 - **Etki:** 18 m içindeki bir hedefe İmza saldırısı yap; isabette `4d8 + yetenek modifikatörü` yıldırım hasarı ver.

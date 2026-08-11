@@ -345,7 +345,7 @@ Bu sürümde 1–20. seviye özelliklerinin tam kuralları vardır. Aşağıdaki
 
 ### Yeni sınıf paketi
 
-Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici ve Çağırıcı aynı karakter oluşturma adımlarını kullanır. Tam 1–3 kuralları ve 1–20 ilerlemeleri [Sınıflar ve Uzmanlıklar](icerik/Sınıflar.md) belgesindedir. Bu sınıflar soy veya bölge tarafından sınırlandırılmaz; Antlaşmalı ayrıca pakt kaynağı, alan ve bağ biçimi seçer.
+Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici, Çağırıcı ve Barbar aynı karakter oluşturma adımlarını kullanır. Tam 1–3 kuralları ve 1–20 ilerlemeleri [Sınıflar ve Uzmanlıklar](icerik/Sınıflar.md) belgesindedir. Bu sınıflar soy veya bölge tarafından sınırlandırılmaz; Antlaşmalı ayrıca pakt kaynağı, alan ve bağ biçimi seçer.
 
 | Sınıf | Kaynak | 1. seviye çekirdeği | 3. seviye uzmanlıkları |
 |---|---|---|---|
@@ -355,6 +355,7 @@ Dövüş Ustası, Yeminli, Ozan, Antlaşmalı, Şekil Değiştirici ve Çağır�
 | Antlaşmalı | Mühür | Pakt Atışı ve pakt teknikleri | Karanlık Aracı, Zincir Kıran |
 | Şekil Değiştirici | Vahşet | Dönüşüm biçimleri | Yabanbiçim, Kadim Kan |
 | Çağırıcı | Komuta | Yoldaş stat bloğu ve emirler | Sürü Efendisi, Ruh Kapısı |
+| Barbar | Öfke | Öfke ve Yalın Savunma | Çılgın Savaşçı, Totem Taşıyıcı |
 ### Savaşçı
 
 **CLASS-001**

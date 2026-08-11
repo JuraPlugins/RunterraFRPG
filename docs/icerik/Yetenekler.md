@@ -73,6 +73,7 @@ Sınıf kaynakları için [Sınıflar ve Uzmanlıklar](Sınıflar.md), çatışm
 | Antlaşmalı | 1 Mühür | 2 Mühür |
 | Şekil Değiştirici | 1 Vahşet | 2 Vahşet |
 | Çağırıcı | 1 Komuta | 2 Komuta |
+| Barbar | 1 Öfke | 2 Öfke |
 
 **ABILITY-COST-001 — Büyücü yuvası:** Büyücü Kademe I için en az 1., Kademe II için en az 2., Kademe III için en az 3. ve Kademe IV için en az 4. derece yuva harcar. Daha yüksek yuva kullanmak kartta yazmıyorsa etkiyi büyütmez.
 
@@ -82,7 +83,7 @@ Sınıf kaynakları için [Sınıflar ve Uzmanlıklar](Sınıflar.md), çatışm
 
 ## Yetenek yeteneği, saldırısı ve DC'si
 
-**ABILITY-STAT-001 — İmza yeteneği:** Savaşçı GÜÇ veya ÇEV; Düzenbaz ÇEV; Avcı SEZ; Büyücü ZEK; Ruhban SEZ; Mucit ZEK; Dövüş Ustası ÇEV veya SEZ; Yeminli GÜÇ veya KAR; Ozan KAR; Antlaşmalı KAR; Şekil Değiştirici SEZ; Çağırıcı ZEK veya SEZ kullanır. İki seçenekli sınıf yeteneği öğrenirken yüksek olan modifikatörü kullanır.
+**ABILITY-STAT-001 — İmza yeteneği:** Savaşçı GÜÇ veya ÇEV; Düzenbaz ÇEV; Avcı SEZ; Büyücü ZEK; Ruhban SEZ; Mucit ZEK; Dövüş Ustası ÇEV veya SEZ; Yeminli GÜÇ veya KAR; Ozan KAR; Antlaşmalı KAR; Şekil Değiştirici SEZ; Çağırıcı ZEK veya SEZ; Barbar GÜÇ kullanır. İki seçenekli sınıf yeteneği öğrenirken yüksek olan modifikatörü kullanır.
 
 **ABILITY-STAT-002 — Saldırı:** İmza yeteneği saldırısı `d20 + uzmanlık bonusu + İmza yeteneği modifikatörü`dür.
 

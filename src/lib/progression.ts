@@ -11,6 +11,7 @@ export const progression: Record<string, string[]> = {
   antlasmali: ["Mühür ve Pakt Gücü", "Bedelli Güç", "Uzmanlık", "Yetenek Artışı", "Gelişmiş Pakt", "Uzmanlık II", "Karanlık Direnç", "Yetenek Artışı", "Mühür Ustalığı", "Uzmanlık III", "Derin Antlaşma", "Yetenek Artışı", "Bedeli Reddet", "Uzmanlık IV", "Pakt Kapısı", "Yetenek Artışı", "Efsanevi Antlaşma", "Uzmanlık V", "Yetenek Artışı", "Efendisiz Güç"],
   "sekil-degistirici": ["Vahşet ve Dönüşüm", "Yırtıcı Hamle", "Uzmanlık", "Yetenek Artışı", "Ek Saldırı", "Uzmanlık II", "Uyumlu Beden", "Yetenek Artışı", "Gelişmiş Biçim", "Uzmanlık III", "Çifte Doğa", "Yetenek Artışı", "Ölümsüz İçgüdü", "Uzmanlık IV", "Tepe Yırtıcı", "Yetenek Artışı", "Efsanevi Biçim", "Uzmanlık V", "Yetenek Artışı", "İlk Biçim"],
   cagirici: ["Komuta ve Yoldaş", "Bağlı Emir", "Uzmanlık", "Yetenek Artışı", "Gelişmiş Yoldaş", "Uzmanlık II", "Paylaşılan Duyu", "Yetenek Artışı", "Komuta Artışı", "Uzmanlık III", "İkinci Tezahür", "Yetenek Artışı", "Bağ Kalkanı", "Uzmanlık IV", "Toplu Emir", "Yetenek Artışı", "Efsanevi Yoldaş", "Uzmanlık V", "Yetenek Artışı", "Lejyonun Sesi"],
+  barbar: ["Öfke ve Yalın Savunma", "Gözü Kara Saldırı", "Uzmanlık", "Yetenek Artışı", "Ek Saldırı", "Uzmanlık II", "Yırtıcı İçgüdü", "Yetenek Artışı", "Vahşi Kritik", "Uzmanlık III", "İnatçı Öfke", "Yetenek Artışı", "Vahşi Kritik II", "Uzmanlık IV", "Kesintisiz Öfke", "Yetenek Artışı", "Öfke Hasarı +4", "Uzmanlık V", "Yetenek Artışı", "İlkel Şampiyon"],
 };
 
 export const advancementLevels = [4, 8, 12, 16, 19];
@@ -30,4 +31,5 @@ export const skillBranches: Record<string, { name: string; keywords: string[] }[
   antlasmali: [{ name: "Lanet", keywords: ["lanet", "işaret", "ölüm", "gölge"] }, { name: "Pakt", keywords: ["ruh", "büyü", "karanlık", "çağır"] }, { name: "Bedel", keywords: ["can", "hasar", "direnç", "dönüş"] }],
   "sekil-degistirici": [{ name: "Yırtıcı", keywords: ["pençe", "ısır", "saldırı", "hareket"] }, { name: "Yaban", keywords: ["doğa", "hayvan", "arazi", "duyu"] }, { name: "Dönüşüm", keywords: ["biçim", "dönüş", "direnç", "iyileş"] }],
   cagirici: [{ name: "Yoldaş", keywords: ["yoldaş", "hayvan", "müttefik", "koru"] }, { name: "Tezahür", keywords: ["çağır", "ruh", "gölge", "yaratık"] }, { name: "Komuta", keywords: ["hedef", "hareket", "saldırı", "alan"] }],
+  barbar: [{ name: "Öfke", keywords: ["hasar", "saldırı", "darbe", "can"] }, { name: "Yağma", keywords: ["hareket", "kritik", "silah", "yere düş"] }, { name: "Totem", keywords: ["ruh", "doğa", "direnç", "koru"] }],
 };

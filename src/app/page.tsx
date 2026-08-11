@@ -12,7 +12,7 @@ export default function HomePage() {
         <div className="hero-copy">
           <p className="eyebrow"><Sparkles size={15} /> Rünlerin kaderi şekillendirdiği d20 sistemi</p>
           <h1>Kendi efsaneni<br /><em>Runeterra’da</em> yaz.</h1>
-          <p className="hero-lead">On iki bölge, on iki sınıf ve binlerce kombinasyon. Kuralları keşfet, karakterini yarat ve sıradan bir maceracıdan dünyayı değiştiren bir güce dönüş.</p>
+          <p className="hero-lead">On iki bölge, on üç sınıf ve binlerce kombinasyon. Kuralları keşfet, karakterini yarat ve sıradan bir maceracıdan dünyayı değiştiren bir güce dönüş.</p>
           <div className="hero-actions">
             <Link className="button button-primary" href="/karakter"><ScrollText size={18} /> Karakterini oluştur <ArrowRight size={17} /></Link>
             <Link className="button button-ghost" href="/rehber"><BookOpenText size={18} /> Kuralları keşfet</Link>
