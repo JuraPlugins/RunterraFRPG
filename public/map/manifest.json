@@ -1,0 +1,35 @@
+{
+  "name": "Runeterra FRP Özgün Atlası — 4K",
+  "attribution": "Runeterra FRP için üretilmiş özgün, hayran yapımı harita görseli.",
+  "tileSize": 256,
+  "maxZoom": 4,
+  "width": 4096,
+  "height": 3072,
+  "levels": [
+    {
+      "zoom": 0,
+      "columns": 1,
+      "rows": 1
+    },
+    {
+      "zoom": 1,
+      "columns": 2,
+      "rows": 2
+    },
+    {
+      "zoom": 2,
+      "columns": 4,
+      "rows": 3
+    },
+    {
+      "zoom": 3,
+      "columns": 8,
+      "rows": 6
+    },
+    {
+      "zoom": 4,
+      "columns": 16,
+      "rows": 12
+    }
+  ]
+}
