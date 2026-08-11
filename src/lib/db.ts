@@ -2,12 +2,29 @@ import postgres, { type Sql } from "postgres";
 
 let client: Sql | null = null;
 
+const databaseVariables = [
+  "DATABASE_URL",
+  "POSTGRES_URL",
+  "DATABSE_DATABASE_URL",
+  "NEON_DATABASE_URL",
+  "DATABASE_URL_UNPOOLED",
+] as const;
+
+export function databaseSource() {
+  return databaseVariables.find((name) => Boolean(process.env[name])) ?? null;
+}
+
+function databaseUrl() {
+  const source = databaseSource();
+  return source ? process.env[source] : undefined;
+}
+
 export function databaseConfigured() {
-  return Boolean(process.env.DATABASE_URL || process.env.POSTGRES_URL);
+  return Boolean(databaseUrl());
 }
 
 export function db(): Sql {
-  const connectionString = process.env.DATABASE_URL || process.env.POSTGRES_URL;
+  const connectionString = databaseUrl();
   if (!connectionString) throw new Error("DATABASE_NOT_CONFIGURED");
   if (!client) {
     client = postgres(connectionString, {
