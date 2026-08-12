@@ -1,0 +1,39 @@
+{
+  "system": "Runeterra FRP",
+  "version": "0.8.0",
+  "character": {
+    "id": "playtest-seli-venn",
+    "name": "Seli Venn",
+    "concept": "Kimyasal kaçakları koku üzerinden izleyen altşehir gözcüsü",
+    "level": 1,
+    "abilities": { "guc": 10, "ceviklik": 15, "dayaniklilik": 13, "zeka": 8, "sezgi": 14, "karizma": 12 },
+    "ancestry": "vastaya",
+    "ancestryChoice": "Koku",
+    "region": "zaun",
+    "regionSkill": "Teknoloji",
+    "regionGift": "Filtreli maske",
+    "classId": "avci",
+    "specialization": "",
+    "classSkills": ["Algı", "Gizlilik", "Hayatta Kalma"],
+    "cantrips": [],
+    "pack": "Kâşif/Avcı",
+    "patronId": "",
+    "patronName": "",
+    "patronDomain": "",
+    "patronBond": "",
+    "aspects": {
+      "identity": "Bir Sızıntıyı Kokusu Değişmeden Bulurum",
+      "region": "Kimse Bizi Yukarıdan Kurtarmayacak",
+      "conflict": "Tehlikenin İzini Görünce Geri Dönmem"
+    }
+  },
+  "runtime": {
+    "currentHp": 11, "tempHp": 0, "rp": 2, "resource": 2,
+    "spellSlots": [0,0,0,0,0,0,0,0,0], "conditions": [], "deathSuccess": 0, "deathFail": 0,
+    "inventory": [], "unlocked": [], "prepared": [], "asiLevels": [], "cooldowns": {},
+    "inCombat": false, "round": 1, "turn": 1, "actionLog": [],
+    "notes": "Keskin Duyu: Koku. Av İşareti: 1 Odak, Hızlı Aksiyon.",
+    "quest": "PT-001 — Cam Kuyu", "gold": 15, "rolls": [], "loadoutMigrated": true,
+    "maxHpValue": 11, "levelHistory": [], "itemUses": {}
+  }
+}

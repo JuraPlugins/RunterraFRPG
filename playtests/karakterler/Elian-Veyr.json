@@ -1,0 +1,40 @@
+{
+  "system": "Runeterra FRP",
+  "version": "0.8.0",
+  "character": {
+    "id": "playtest-elian-veyr",
+    "name": "Elian Veyr",
+    "concept": "Petricite ölçüm heyetinde gücünü saklayan genç rün araştırmacısı",
+    "level": 1,
+    "abilities": { "guc": 8, "ceviklik": 14, "dayaniklilik": 12, "zeka": 15, "sezgi": 13, "karizma": 10 },
+    "ancestry": "insan",
+    "ancestryChoice": "Gizlilik",
+    "region": "demacia",
+    "regionSkill": "Tarih",
+    "regionGift": "Petricite kırıntılı aile yadigârı",
+    "classId": "buyucu",
+    "specialization": "",
+    "classSkills": ["Büyü Bilgisi", "İnceleme"],
+    "cantrips": ["CANTRIP-ARC-SHOT", "CANTRIP-MAGE-HAND", "CANTRIP-MINOR-ILLUSION"],
+    "pack": "Bilgin",
+    "patronId": "",
+    "patronName": "",
+    "patronDomain": "",
+    "patronBond": "",
+    "aspects": {
+      "identity": "Yasak Rünleri İnsanları Korumak İçin Okurum",
+      "region": "Demacia Beni Hem Korudu Hem Saklanmaya Zorladı",
+      "conflict": "Gerçeği Söylersem Evimi Kaybedebilirim"
+    }
+  },
+  "runtime": {
+    "currentHp": 7, "tempHp": 0, "rp": 2, "resource": 0,
+    "spellSlots": [2,0,0,0,0,0,0,0,0], "conditions": [], "deathSuccess": 0, "deathFail": 0,
+    "inventory": [], "unlocked": [], "prepared": [], "asiLevels": [], "cooldowns": {},
+    "inCombat": false, "round": 1, "turn": 1, "actionLog": [],
+    "notes": "Büyü kitabı: Büyü Oku, Element Dalgası, Kalkan, Sis Perdesi, Hızlı Adım, Rün Zırhı. Hazırlananlar: Büyü Oku, Kalkan, Rün Zırhı.",
+    "quest": "PT-001 — Cam Kuyu", "gold": 15, "rolls": [], "loadoutMigrated": true,
+    "maxHpValue": 7, "levelHistory": [], "itemUses": {}
+  }
+}
+

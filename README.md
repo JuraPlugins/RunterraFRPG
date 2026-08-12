@@ -44,6 +44,10 @@ Hazır macera, kampanya hikâyesi ve resmî şampiyonların karakter blokları b
 
 İlk kez oynayan bir grup önce Temel Kurallar'ın **Kontroller** ve **Çatışma** bölümlerini, ardından Karakter Yaratımı'nı okumalıdır. Her oyuncu Rün Puanı belgesindeki oyuncu özetini bilmelidir. GM, ilk oturumdan önce GM rehberinin düşman bütçelerini incelemelidir.
 
+## Playtestler
+
+- [PT-001 — Cam Kuyu](playtests/PT-001-Cam-Kuyu.md): Dört 1. seviye karakterle keşif, sosyal karar, Rün Puanı, çatışma, 0 CP, Yara ve kısa mola testi.
+- [İçe aktarılabilir test karakterleri](playtests/karakterler/)
 ## Web uygulaması
 
 Bu depo aynı zamanda Markdown belgelerini doğrudan okuyan bir Next.js rehberi ve tarayıcıda çalışan karakter oluşturucu içerir.
@@ -64,4 +68,4 @@ Yerel adres http://localhost:3000 olur. Next.js uygulaması Vercel tarafından e
 
 ## Sürüm notu
 
-`0.7.0-complete-draft`, 1–20. seviye sınıf ilerlemesini, beş soy ve on iki bölgeyi, güncel eşya/yetenek kataloglarını, Rün Puanı döngüsünü, ekonomi–zanaat–ganimet kurallarını ve ortak büyü–güç kaynağı sistemini içerir. Denge değerleri playtest sonrasında değişebilir; NPC ve hazır macera içeriği sonraki aşamadadır.
+`0.7.0-complete-draft`, 1–20. seviye sınıf ilerlemesini, dokuz soy ve on iki bölgeyi, güncel eşya/yetenek kataloglarını, Rün Puanı döngüsünü, ekonomi–zanaat–ganimet kurallarını ve ortak büyü–güç kaynağı sistemini içerir. Denge değerleri playtest sonrasında değişebilir; NPC ve hazır macera içeriği sonraki aşamadadır.

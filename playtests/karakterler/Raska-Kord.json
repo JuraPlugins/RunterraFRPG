@@ -1,0 +1,40 @@
+{
+  "system": "Runeterra FRP",
+  "version": "0.8.0",
+  "character": {
+    "id": "playtest-raska-kord",
+    "name": "Raska Kord",
+    "concept": "Birliğin gücünü yaralıları ayağa kaldırmakta gören savaş şifacısı",
+    "level": 1,
+    "abilities": { "guc": 13, "ceviklik": 10, "dayaniklilik": 14, "zeka": 8, "sezgi": 15, "karizma": 12 },
+    "ancestry": "minotaur",
+    "ancestryChoice": "",
+    "region": "noxus",
+    "regionSkill": "Gözdağı",
+    "regionGift": "Kazanılmış rütbe işareti",
+    "classId": "ruhban",
+    "specialization": "",
+    "classSkills": ["Tıp", "İçgörü", "İnanç ve Ruhlar"],
+    "cantrips": [],
+    "pack": "Şifacı",
+    "patronId": "yemin",
+    "patronName": "Birlik Yemini",
+    "patronDomain": "koruma",
+    "patronBond": "Sorgulayan mürid",
+    "aspects": {
+      "identity": "Kimseyi Savaş Alanında Bırakmam",
+      "region": "Güç Kazanılır ama Paylaşılınca Anlamlıdır",
+      "conflict": "Emir ile Merhamet Çatıştığında Duraksarım"
+    }
+  },
+  "runtime": {
+    "currentHp": 10, "tempHp": 0, "rp": 2, "resource": 2,
+    "spellSlots": [0,0,0,0,0,0,0,0,0], "conditions": [], "deathSuccess": 0, "deathFail": 0,
+    "inventory": [], "unlocked": [], "prepared": [], "asiLevels": [], "cooldowns": {},
+    "inCombat": false, "round": 1, "turn": 1, "actionLog": [],
+    "notes": "İnanç: Birlik Yemini. Alan: Koruma. Dualar: Koruma, Yargı, Şifa Sözü.",
+    "quest": "PT-001 — Cam Kuyu", "gold": 15, "rolls": [], "loadoutMigrated": true,
+    "maxHpValue": 10, "levelHistory": [], "itemUses": {}
+  }
+}
+

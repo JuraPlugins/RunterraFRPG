@@ -1,0 +1,40 @@
+{
+  "system": "Runeterra FRP",
+  "version": "0.8.0",
+  "character": {
+    "id": "playtest-oru-yildiz-vidasi",
+    "name": "Oru, Yıldız Vidası",
+    "concept": "Göksel olayları ölçen cep boyutunda hacı mühendis",
+    "level": 1,
+    "abilities": { "guc": 8, "ceviklik": 14, "dayaniklilik": 13, "zeka": 15, "sezgi": 12, "karizma": 10 },
+    "ancestry": "yordle",
+    "ancestryChoice": "",
+    "region": "targon",
+    "regionSkill": "İnanç ve Ruhlar",
+    "regionGift": "Yıldız haritası",
+    "classId": "mucit",
+    "specialization": "",
+    "classSkills": ["Teknoloji", "İnceleme", "Tıp"],
+    "cantrips": [],
+    "pack": "Mucit",
+    "patronId": "",
+    "patronName": "",
+    "patronDomain": "",
+    "patronBond": "",
+    "aspects": {
+      "identity": "Her Mucize Ölçülebilir Bir İz Bırakır",
+      "region": "Gökyüzü Kader Değil Rehberdir",
+      "conflict": "Çalışmayan Bir Mekanizmayı Olduğu Gibi Bırakamam"
+    }
+  },
+  "runtime": {
+    "currentHp": 9, "tempHp": 0, "rp": 2, "resource": 4,
+    "spellSlots": [0,0,0,0,0,0,0,0,0], "conditions": [], "deathSuccess": 0, "deathFail": 0,
+    "inventory": [], "unlocked": [], "prepared": [], "asiLevels": [], "cooldowns": {},
+    "inCombat": false, "round": 1, "turn": 1, "actionLog": [],
+    "notes": "Cihazlar: Şok Bobini, Saha İğnesi, Koruyucu Plaka, Tarayıcı.",
+    "quest": "PT-001 — Cam Kuyu", "gold": 15, "rolls": [], "loadoutMigrated": true,
+    "maxHpValue": 9, "levelHistory": [], "itemUses": {}
+  }
+}
+
