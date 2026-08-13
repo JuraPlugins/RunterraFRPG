@@ -1,4 +1,4 @@
-﻿---
+---
 title: GM ve Homebrew Rehberi
 slug: /gm-homebrew
 order: 4
@@ -99,6 +99,18 @@ Sonuçları en yakın 0,25'e yuvarla. Aynı anda oyuncu sayısının iki katınd
 | Zayıf kurtarma | `+0` |
 
 Hasar, tek saldırı veya birkaç saldırı arasında bölünebilir; toplam hedefi aşmamalıdır. Alan saldırısı üç veya daha fazla hedefi etkileyebiliyorsa tek hedef hasarını yaklaşık %40 azalt.
+**GM-002A — Hasarı zar ifadesine çevirme:** Tablodaki değer, düşmanın bir turda bir hedefe vermesi beklenen **ortalama toplam hasardır**; doğrudan sabit hasar değildir. Zarların ortalamasını bu değerin en fazla 1 puan yakınına getir. Küçük bir sabit modifikatör eklenebilir.
+
+| Hedef ortalama | Örnek zar ifadesi | Gerçek ortalama |
+|---:|---|---:|
+| 5 | `1d6 + 2` | 5,5 |
+| 6 | `1d8 + 2` | 6,5 |
+| 8 | `1d10 + 3` | 8,5 |
+| 10 | `2d6 + 3` | 10 |
+| 12 | `2d8 + 3` | 12 |
+| 16 | `3d8 + 2` | 15,5 |
+
+Birden çok saldırı varsa bu bütçeyi saldırılar arasında böl; her saldırıya tam bütçeyi verme. Kritik vuruşta yalnızca saldırının hasar zarlarını iki kez at, sabit modifikatörü bir kez ekle. Kurtarma atışlı etkiler, özellik açıkça söylemedikçe kritik vurmaz. Bu yüzden kritik ihtimali bulunan düşmanda normal tur hasarını ayrıca yükseltme.
 
 ### Düşman şablonları
 

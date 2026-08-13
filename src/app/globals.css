@@ -149,3 +149,20 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .cantrip-selection>span{color:var(--gold-light)!important;font:600 19px var(--serif)!important;text-transform:none!important;letter-spacing:0!important}.cantrip-selection>.helper{margin:5px 0 13px}.cantrip-grid{grid-template-columns:repeat(3,1fr)!important}.cantrip-grid .choice-card{min-height:145px}.cantrip-grid .choice-card:disabled{opacity:.35;cursor:not-allowed}.cantrip-grid .choice-card h3{font-size:16px}.cantrip-grid .choice-card p{font-size:8px}
 .cantrip-alert{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:14px 16px;border:1px solid rgba(91,145,223,.55);background:linear-gradient(120deg,rgba(52,85,142,.16),rgba(20,59,66,.12))}.cantrip-alert b{color:#b8cff3;font:600 16px var(--serif)}.cantrip-alert p{color:var(--muted);font-size:9px;margin:4px 0 0}.cantrip-alert .button{flex:0 0 auto;padding:9px 12px}
 @media(max-width:700px){.cantrip-grid{grid-template-columns:1fr!important}.cantrip-alert{align-items:flex-start;flex-direction:column}.cantrip-alert .button{width:100%}}
+
+/* PT-001 recovery and wound controls */
+.rest-modal { max-width: 680px; }
+.rest-dice-picker { display: flex; align-items: center; justify-content: center; gap: 18px; margin-top: 14px; }
+.rest-dice-picker button, .slot-recovery-grid button { width: 34px; height: 34px; border: 1px solid rgba(200,170,110,.35); border-radius: 8px; background: rgba(10,20,32,.8); color: var(--gold-1); display: grid; place-items: center; }
+.rest-dice-picker b { min-width: 56px; text-align: center; font: 700 2rem var(--font-cinzel),serif; color: var(--gold-1); }
+.slot-recovery-grid { display: grid; gap: 8px; margin-top: 14px; }
+.slot-recovery-grid > div { display: grid; grid-template-columns: 1fr auto 72px auto; align-items: center; gap: 8px; padding: 9px 11px; border: 1px solid rgba(200,170,110,.18); border-radius: 8px; background: rgba(8,16,26,.55); }
+.slot-recovery-grid b { text-align: center; color: var(--gold-1); }
+.wound-card { border-color: rgba(201,84,76,.35); }
+.wound-editor { display: grid; grid-template-columns: minmax(110px,.3fr) 1fr; gap: 10px; margin: 12px 0; }
+.wound-editor select, .wound-editor input { width: 100%; border: 1px solid rgba(201,84,76,.32); border-radius: 8px; background: rgba(8,16,26,.78); color: var(--paper); padding: 11px 12px; }
+.wound-card > p { color: var(--muted); line-height: 1.6; }
+.wound-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 13px; }
+.wound-actions button { border: 1px solid rgba(200,170,110,.28); border-radius: 8px; background: rgba(16,29,43,.8); color: var(--paper); padding: 9px 12px; }
+.wound-actions button:disabled { opacity: .42; }
+@media (max-width: 640px) { .wound-editor { grid-template-columns: 1fr; } .slot-recovery-grid > div { grid-template-columns: 1fr auto 58px auto; } }
